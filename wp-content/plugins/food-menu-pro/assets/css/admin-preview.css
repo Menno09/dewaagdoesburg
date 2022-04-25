@@ -1,0 +1,5 @@
+@import url("foodmenu.css");
+
+.fmp-layout1.even-grid-item.fmp-grid-item .fmp-box img {
+    display: block;
+}

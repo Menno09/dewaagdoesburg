@@ -1,0 +1,11 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">food-menu</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">food-menu-cat</taxonomy>
+        <taxonomy translate="1">food-menu-tag</taxonomy>
+        <taxonomy translate="1">food-menu-ingredient</taxonomy>
+        <taxonomy translate="1">food-menu-nutrition</taxonomy>
+    </taxonomies>
+</wpml-config>

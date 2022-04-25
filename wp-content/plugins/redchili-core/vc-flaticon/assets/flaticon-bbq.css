@@ -1,0 +1,79 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:29
+  	*/
+
+@font-face {
+  font-family: "Flaticon-bbq";
+  src: url("./Flaticon-bbq.eot");
+  src: url("./Flaticon-bbq.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon-bbq.woff") format("woff"),
+       url("./Flaticon-bbq.ttf") format("truetype"),
+       url("./Flaticon-bbq.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-bbq";
+    src: url("./Flaticon-bbq.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-bbq-"]:before, [class*=" flaticon-bbq-"]:before,
+[class^="flaticon-bbq-"]:after, [class*=" flaticon-bbq-"]:after {   
+  font-family: "Flaticon-bbq";
+font-style: normal;
+}
+
+.flaticon-bbq-apron:before { content: "\f100"; }
+.flaticon-bbq-basting-brush:before { content: "\f101"; }
+.flaticon-bbq-beer-bottle:before { content: "\f102"; }
+.flaticon-bbq-brick-grill:before { content: "\f103"; }
+.flaticon-bbq-brochette:before { content: "\f104"; }
+.flaticon-bbq-burning-coal:before { content: "\f105"; }
+.flaticon-bbq-ceramic-grill:before { content: "\f106"; }
+.flaticon-bbq-charcoal:before { content: "\f107"; }
+.flaticon-bbq-charcoal-grill:before { content: "\f108"; }
+.flaticon-bbq-chicken-leg:before { content: "\f109"; }
+.flaticon-bbq-cleaver-knife:before { content: "\f10a"; }
+.flaticon-bbq-cook-hat:before { content: "\f10b"; }
+.flaticon-bbq-corn-holder:before { content: "\f10c"; }
+.flaticon-bbq-cutting-board:before { content: "\f10d"; }
+.flaticon-bbq-fire-extinguisher:before { content: "\f10e"; }
+.flaticon-bbq-fish-and-lemon:before { content: "\f10f"; }
+.flaticon-bbq-fish-brochette:before { content: "\f110"; }
+.flaticon-bbq-fork:before { content: "\f111"; }
+.flaticon-bbq-gas:before { content: "\f112"; }
+.flaticon-bbq-gas-grill:before { content: "\f113"; }
+.flaticon-bbq-grill-cleaning-brush:before { content: "\f114"; }
+.flaticon-bbq-grill-holder:before { content: "\f115"; }
+.flaticon-bbq-grill-rack:before { content: "\f116"; }
+.flaticon-bbq-grill-thermometer:before { content: "\f117"; }
+.flaticon-bbq-hamburger:before { content: "\f118"; }
+.flaticon-bbq-hot-dog:before { content: "\f119"; }
+.flaticon-bbq-knife:before { content: "\f11a"; }
+.flaticon-bbq-lemonade:before { content: "\f11b"; }
+.flaticon-bbq-match-on-fire:before { content: "\f11c"; }
+.flaticon-bbq-matches:before { content: "\f11d"; }
+.flaticon-bbq-mushroom:before { content: "\f11e"; }
+.flaticon-bbq-oven-mitt:before { content: "\f11f"; }
+.flaticon-bbq-pepper:before { content: "\f120"; }
+.flaticon-bbq-plate-and-napkin:before { content: "\f121"; }
+.flaticon-bbq-portable-fridge:before { content: "\f122"; }
+.flaticon-bbq-ribs:before { content: "\f123"; }
+.flaticon-bbq-round-grill:before { content: "\f124"; }
+.flaticon-bbq-salad-bowl:before { content: "\f125"; }
+.flaticon-bbq-salt-and-pepper:before { content: "\f126"; }
+.flaticon-bbq-sauce:before { content: "\f127"; }
+.flaticon-bbq-sausaces:before { content: "\f128"; }
+.flaticon-bbq-sausage:before { content: "\f129"; }
+.flaticon-bbq-slotted-spatula:before { content: "\f12a"; }
+.flaticon-bbq-soda-can:before { content: "\f12b"; }
+.flaticon-bbq-soda-glass:before { content: "\f12c"; }
+.flaticon-bbq-steak:before { content: "\f12d"; }
+.flaticon-bbq-table-and-sun-umbrella:before { content: "\f12e"; }
+.flaticon-bbq-tongs:before { content: "\f12f"; }
+.flaticon-bbq-vegetables-basket:before { content: "\f130"; }
+.flaticon-bbq-watermelon-slice:before { content: "\f131"; }

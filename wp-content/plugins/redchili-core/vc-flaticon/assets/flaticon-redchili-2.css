@@ -1,0 +1,32 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 14/03/2017 13:43
+  	*/
+
+@font-face {
+  font-family: "Flaticon-redchili-2";
+  src: url("./Flaticon-redchili-2.eot");
+  src: url("./Flaticon-redchili-2.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon-redchili-2.woff") format("woff"),
+       url("./Flaticon-redchili-2.ttf") format("truetype"),
+       url("./Flaticon-redchili-2.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-redchili-2";
+    src: url("./Flaticon-redchili-2.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-redchili-2-"]:before, [class*=" flaticon-redchili-2-"]:before,
+[class^="flaticon-redchili-2-"]:after, [class*=" flaticon-redchili-2-"]:after {   
+  font-family: Flaticon-redchili-2;
+	font-style: normal;
+}
+
+.flaticon-redchili-2-food:before { content: "\f100"; }
+.flaticon-redchili-2-chef:before { content: "\f101"; }
+.flaticon-redchili-2-pasta:before { content: "\f102"; }

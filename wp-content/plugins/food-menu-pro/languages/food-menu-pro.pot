@@ -1,0 +1,877 @@
+# Copyright (C) 2021 food-menu-pro
+# This file is distributed under the same license as the food-menu-pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: food-menu-pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../lib/init.php:52
+msgid "Food Menu"
+msgstr ""
+
+#: ../lib/classes/FmpAjaxResponse.php:64, ../lib/classes/FmpFilterHook.php:58, ../lib/classes/FmpInit.php:80, ../lib/classes/FmpInit.php:82
+msgid "Ingredients"
+msgstr ""
+
+#: ../lib/classes/FmpAjaxResponse.php:70, ../lib/classes/FmpFilterHook.php:67, ../lib/classes/FmpFoodMeta.php:243, ../lib/classes/FmpInit.php:112, ../lib/classes/FmpInit.php:113, ../lib/classes/FmpInit.php:114, ../lib/templates/single/tabs/nutrition.php:8
+msgid "Nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpAjaxResponse.php:102
+msgid "No shortCode found."
+msgstr ""
+
+#: ../lib/classes/FmpAjaxResponse.php:93
+msgid "Default"
+msgstr ""
+
+#: ../lib/classes/FmpAjaxResponse.php:127
+msgid "WooCommerce not installed"
+msgstr ""
+
+#: ../lib/classes/FmpFilterHook.php:48, ../lib/templates/single/tabs/description.php:9
+msgid "Description"
+msgstr ""
+
+#: ../lib/classes/FmpFilterHook.php:76
+msgid "Reviews (%d)"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:135, ../lib/templates/single-food-menu-reviews.php:20
+msgid "Reviews"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:145
+msgid "Food Data"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:151
+msgid "Excerpt"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:157
+msgid "Gallery"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:199, ../lib/classes/FmpFoodMeta.php:223
+msgid "Delete image"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:200, ../lib/classes/FmpFoodMeta.php:224
+msgid "Delete"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:221
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:222
+msgid "Add to gallery"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:224
+msgid "Add gallery images"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:237
+msgid "General"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:240, ../lib/classes/FmpInit.php:81, ../lib/templates/single/tabs/ingredient.php:8
+msgid "Ingredient"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:246
+msgid "Advanced"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:255
+msgid "Add Variation"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:279
+msgid "Save Variations"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:446, ../lib/classes/FmpFoodMeta.php:447, ../lib/classes/FmpTaxMeta.php:330
+msgid "Image"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:448, ../lib/includes/html-fmp-attribute.php:12, ../lib/includes/html-fmp-variation.php:9, ../lib/templates/single-food-menu-reviews.php:60
+msgid "Name"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:449
+msgid "Stock"
+msgstr ""
+
+#: ../lib/classes/FmpFoodMeta.php:450, ../lib/includes/html-fmp-variation.php:13
+msgid "Price"
+msgstr ""
+
+#: ../lib/classes/FmpFunction.php:60
+msgid "Free!"
+msgstr ""
+
+#: ../lib/classes/FmpHelper.php:11
+msgid "Custom image size"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:39
+msgid "Variations"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:48
+msgid "Tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:49
+msgid "Tag"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:50
+msgctxt "Admin menu name"
+msgid "Tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:51
+msgid "Search Tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:52
+msgid "All Tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:53
+msgid "Edit Tag"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:54
+msgid "Update Tag"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:55
+msgid "Add New Tag"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:56
+msgid "New Tag Name"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:57
+msgid "Popular Tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:58
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:59
+msgid "Add or remove Tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:60
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:61
+msgid "No Tags found"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:83
+msgid "Edit Ingredient"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:84
+msgid "Update Ingredient"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:85
+msgid "Add New Ingredient"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:86
+msgid "New Ingredient"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:87
+msgid "Parent Ingredient"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:88
+msgid "Parent Ingredient:"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:89
+msgid "All ingredients"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:90
+msgid "Search ingredients"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:91
+msgid "Popular ingredients"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:92
+msgid "Separate ingredients with commas"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:93
+msgid "Add or remove ingredients"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:94
+msgid "Choose from the most used  ingredients"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:95
+msgid "No ingredients found."
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:115
+msgid "Edit nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:116
+msgid "Update nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:117
+msgid "Add New nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:118
+msgid "New nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:119, ../lib/classes/FmpInit.php:120
+msgid "Parent nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:121
+msgid "All nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:122
+msgid "Search nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:123
+msgid "Popular nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:124
+msgid "Separate nutrition with commas"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:125
+msgid "Add or remove nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:126
+msgid "Choose from the most used  nutrition"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:127
+msgid "No nutrition found."
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:143, ../lib/classes/FmpInit.php:145
+msgid "Units"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:144
+msgid "Unit"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:146
+msgid "Edit unit"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:147
+msgid "Update unit"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:148
+msgid "Add New unit"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:149
+msgid "New unit"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:150, ../lib/classes/FmpInit.php:151
+msgid "Parent unit"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:152
+msgid "All units"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:153
+msgid "Search units"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:154
+msgid "Popular units"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:155
+msgid "Separate units with commas"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:156
+msgid "Add or remove units"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:157
+msgid "Choose from the most used units"
+msgstr ""
+
+#: ../lib/classes/FmpInit.php:158
+msgid "No unit found."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:87
+msgid "Session Error !!"
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:49
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:55, ../lib/classes/FMPLicence.php:128
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:58, ../lib/classes/FMPLicence.php:131
+msgid "Invalid license."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:62, ../lib/classes/FMPLicence.php:135
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:65, ../lib/classes/FMPLicence.php:138
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:69, ../lib/classes/FMPLicence.php:141
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:72, ../lib/classes/FMPLicence.php:42, ../lib/classes/FMPLicence.php:144, ../lib/classes/FMPLicence.php:115
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:81
+msgid "Successfully activated"
+msgstr ""
+
+#: ../lib/classes/FMPLicence.php:184
+msgid "Security Error !!"
+msgstr ""
+
+#: ../lib/classes/FmpLoadMoreResponse.php:209
+msgid "Security error"
+msgstr ""
+
+#: ../lib/classes/FmpLoadMoreResponse.php:206, ../lib/classes/FmpLoadMoreResponse.php:201
+msgid "No More Post to load"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:28
+msgid "Thousand Separator"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:34
+msgid "Decimal Separator"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:40
+msgid "Number of Decimals"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:66
+msgid "Themes (Pro)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:83
+msgid "Plugin License"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:97
+msgid "Deactivate License"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:98
+msgid "Activate License"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:105
+msgid "Enter your license key"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:121
+msgid "Isotope filter (Selected item)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:124
+msgid "Show All"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:132
+msgid "Disable"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:143
+msgid "Number of items"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:147
+msgid "Number of item to display"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:150
+msgid "Speed"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:154
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:157
+msgid "Carousel Options"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:166
+msgid "Autoplay timeout"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:170
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:181, ../lib/classes/FmpOptions.php:388, ../lib/classes/FmpOptions.php:399
+msgid "Pagination"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:183, ../lib/classes/FmpOptions.php:269
+msgid "Enable"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:188
+msgid "Display per page"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:191
+msgid "If value of Limit setting is not blank (empty), this value should be smaller than Limit value."
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:196
+msgid "Pagination type"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:204
+msgid "Load more button text"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:206
+msgid "Load more"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:218
+msgid "Custom Image Size"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:223
+msgid "Image Shape"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:237
+msgid "Read more button text"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:238
+msgid "Read more"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:242
+msgid "Add to cart text (WooCommerce)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:243, ../lib/classes/FmpPreview.php:211, ../lib/classes/FmpShortCode.php:261
+msgid "Add to cart"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:247
+msgid "Margin"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:249
+msgid "Select the margin for layout"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:255
+msgid "Grid style"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:257
+msgid "Select grid style for layout"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:267
+msgid "Single food popup"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:276
+msgid "Default preview  image"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:277
+msgid "Add an image for default preview"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:286
+msgid "Grid By Category 1"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:287
+msgid "Grid By Category 2"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:288
+msgid "Layout 1"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:289
+msgid "Layout 2"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:290
+msgid "Layout 3"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:291
+msgid "Layout 4"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:292
+msgid "Layout 5(Full width)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:293
+msgid "Carousel 1"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:294
+msgid "Carousel 2"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:295
+msgid "Carousel 3"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:296
+msgid "Carousel 4"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:297
+msgid "Isotope 1"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:298
+msgid "Isotope 2"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:299
+msgid "Isotope 3"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:300
+msgid "Isotope 4"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:307
+msgid "Random"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:315
+msgid "Categories"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:316
+msgid "Label"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:317
+msgid "Read More"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:321
+msgid "Add to cart (WooCommerce)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:322
+msgid "Quantity (WooCommerce)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:333
+msgid "Primary Color"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:338
+msgid "Overlay color"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:342
+msgid "Overlay opacity"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:346
+msgid "Overlay opacity use only positive integer value"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:350
+msgid "Overlay top padding"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:352
+msgid "Overlay top padding use only positive integer value, e.g : 20 (with out postfix like px, em, % etc). it will displayed by %"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:364
+msgid "Short description"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:368
+msgid "Category name"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:384
+msgid "Loop"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:385
+msgid "Auto Play"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:386
+msgid "Pause on mouse hover"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:387
+msgid "Nav Button"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:389
+msgid "Auto Height"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:390
+msgid "Lazy Load"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:391
+msgid "Right to left (RTL)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:400
+msgid "Ajax Number Pagination ( Only for Grid )"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:401
+msgid "Load more button (by ajax loading)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:402
+msgid "Load more on scroll (by ajax loading)"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:415
+msgid "Bootstrap default"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:416
+msgid "No Margin"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:422
+msgid "Even"
+msgstr ""
+
+#: ../lib/classes/FmpOptions.php:423
+msgid "Masonry"
+msgstr ""
+
+#: ../lib/classes/FmpPreview.php:90, ../lib/classes/FmpShortCode.php:95
+msgid "Show all"
+msgstr ""
+
+#: ../lib/classes/FmpPreview.php:96, ../lib/classes/FmpShortCode.php:101
+msgid "Search"
+msgstr ""
+
+#: ../lib/classes/FmpShortCode.php:296
+msgid "Load More"
+msgstr ""
+
+#: ../lib/classes/FmpTaxMeta.php:70, ../lib/classes/FmpTaxMeta.php:138, ../lib/classes/FmpTaxMeta.php:244, ../lib/classes/FmpTaxMeta.php:331
+msgid "Order"
+msgstr ""
+
+#: ../lib/classes/FmpTaxMeta.php:142, ../lib/classes/FmpTaxMeta.php:248, ../lib/classes/FmpTaxMeta.php:359
+msgid "Thumbnail"
+msgstr ""
+
+#: ../lib/classes/FmpTaxMeta.php:149, ../lib/classes/FmpTaxMeta.php:256
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../lib/classes/FmpTaxMeta.php:152, ../lib/classes/FmpTaxMeta.php:259
+msgid "Remove image"
+msgstr ""
+
+#: ../lib/classes/FmpTaxMeta.php:176, ../lib/classes/FmpTaxMeta.php:281
+msgid "Choose an image"
+msgstr ""
+
+#: ../lib/classes/FmpTaxMeta.php:178, ../lib/classes/FmpTaxMeta.php:283
+msgid "Use image"
+msgstr ""
+
+#: ../lib/classes/FmpVcInit.php:57, ../lib/classes/FmpVcInit.php:34
+msgid "Food Menu Pro"
+msgstr ""
+
+#: ../lib/classes/FmpVcInit.php:68, ../lib/classes/FmpVcInit.php:45
+msgid "Short Code"
+msgstr ""
+
+#: ../lib/classes/FmpVcInit.php:72, ../lib/classes/FmpVcInit.php:49
+msgid "Short Code list"
+msgstr ""
+
+#: ../lib/includes/html-fmp-attribute.php:17
+msgid "Value(s)"
+msgstr ""
+
+#: ../lib/includes/html-fmp-attribute.php:17
+msgid "Enter some text, or some attributes by \"%s\" separating values."
+msgstr ""
+
+#: ../lib/includes/html-fmp-attribute.php:22
+msgid "Visible on the product page"
+msgstr ""
+
+#: ../lib/includes/html-fmp-attribute.php:28
+msgid "Used for variations"
+msgstr ""
+
+#: ../lib/templates/archive-food-menu-cat.php:41
+msgid "No food found."
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:16
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/templates/single-food-menu-reviews.php:43
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:54
+msgid "Add a review"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:55
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:57
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:63
+msgid "Email"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:73
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:78
+msgid "Your Rating"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:80
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:81
+msgid "Perfect"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:82
+msgid "Good"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:83
+msgid "Average"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:84
+msgid "Not that bad"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:85
+msgid "Very Poor"
+msgstr ""
+
+#: ../lib/templates/single-food-menu-reviews.php:88
+msgid "Your Review"
+msgstr ""
+
+#: ../lib/templates/layouts/carousel1.php:9, ../lib/templates/layouts/carousel2.php:9, ../lib/templates/layouts/carousel3.php:9, ../lib/templates/layouts/carousel4.php:9, ../lib/templates/layouts/grid-by-cat1.php:28, ../lib/templates/layouts/grid-by-cat2.php:37, ../lib/templates/layouts/isotope1.php:9, ../lib/templates/layouts/isotope2.php:9, ../lib/templates/layouts/isotope3.php:9, ../lib/templates/layouts/isotope4.php:9
+msgid "Qty"
+msgstr ""
+
+#: ../lib/templates/layouts/grid-by-cat.php:52
+msgid "No item found"
+msgstr ""
+
+#: ../lib/templates/layouts/grid-by-cat1.php:94, ../lib/templates/layouts/grid-by-cat2.php:87
+msgid "No item found."
+msgstr ""
+
+#: ../lib/templates/layouts/layout1.php:10, ../lib/templates/layouts/layout2.php:9, ../lib/templates/layouts/layout3.php:9, ../lib/templates/layouts/layout4.php:9
+msgid "Quantity"
+msgstr ""
+
+#: ../lib/templates/single/review-meta.php:10
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../lib/templates/single/review-rating.php:12
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../lib/templates/single/review-rating.php:14
+msgid "out of 5"
+msgstr ""

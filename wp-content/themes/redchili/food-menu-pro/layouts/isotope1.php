@@ -1,0 +1,28 @@
+<?php
+$price = FMP()->fmpHtmlPrice( $pID );
+?>
+<div class="<?php echo $grid . " " . $class . " " . $isoFilter; ?>">
+	<div class="fmp-layout1 fmp-box-wrapper">
+		<div class="fmp-box">
+			<?php echo $img; ?>
+			<span class="fmp-price"><?php echo $price; ?></span>
+			<div class="fmp-title">
+				<h3><?php if ( $link ) { ?>
+						<a class="<?php echo $anchorClass; ?>" href="<?php echo esc_url( $pLink ); ?>"
+						   data-id="<?php echo absint( $pID ); ?>"><?php echo esc_attr( $title ); ?></a>
+					<?php } else {
+						echo esc_html( $title );
+					} ?></h3>
+				<div class="fmp-info">
+					<?php if ( in_array( 'excerpt', $items ) ): ?>
+						<p><?php echo $excerpt; ?></p>
+					<?php endif; ?>
+					<?php if ( in_array( 'read_more', $items ) && $link ): ?>
+						<a href="<?php echo esc_url( $pLink ); ?>" data-id="<?php echo $pID ?>"
+						   class="<?php echo $anchorClass; ?>  fmp-btn-read-more"><?php echo $read_more; ?></a>
+					<?php endif; ?>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

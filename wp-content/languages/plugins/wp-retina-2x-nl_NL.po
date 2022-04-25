@@ -1,0 +1,135 @@
+# Translation of Plugins - Perfect Images (Retina, Thumbnails, Replace, CDN) - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Perfect Images (Retina, Thumbnails, Replace, CDN) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-15 11:53:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Perfect Images (Retina, Thumbnails, Replace, CDN) - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Perfect Images (Retina, Thumbnails, Replace)"
+msgstr "Perfect Images (Retina, Thumbnails, Replace)"
+
+#: classes/dashboard.php:15
+msgid "Perfect Images %s"
+msgstr "Perfecte afbeeldingen %s"
+
+#: classes/admin.php:121 classes/dashboard.php:14
+msgid "Perfect Images"
+msgstr "Perfecte afbeeldingen"
+
+#: common/admin.php:73
+msgid "<a target=\"_blank\" href=\"https://meowapps.com\">Get the <u>Pro Version</u></a>"
+msgstr "<a target=\"_blank\" href=\"https://meowapps.com\">Download de <u>Pro versie</u></a>"
+
+#: common/admin.php:73
+msgid "License Issue"
+msgstr "Licentieprobleem"
+
+#: common/admin.php:69
+msgid "<a href=\"admin.php?page=%s_settings\">Settings</a>"
+msgstr "<a href=\"admin.php?page=%s_settings\">Instellingen</a>"
+
+#. translators: %1$s is a plugin nicename, %2$s is a short url (slug)
+#: common/ratings.php:65
+msgid "You have been using <b>%1$s</b> for some time now. Thank you! Could you kindly share your opinion with me, along with, maybe, features you would like to see implemented? Then, please <a style=\"font-weight: bold; color: #b926ff;\" target=\"_blank\" href=\"https://wordpress.org/support/plugin/%2$s/reviews/?rate=5#new-post\">write a little review</a>. That will also bring me joy and motivation! I will get back to you :)"
+msgstr "Je gebruikt <b>%1$s</b>al een tijdje. Dank je! Kun je je mening met mij delen, samen met wellicht functies die je graag geïmplementeerd zou willen zien? <a style=\"font-weight: bold; color: #b926ff;\" target=\"_blank\" href=\"https://wordpress.org/support/plugin/%2$s/reviews/?rate=5#new-post\">| schrijf een kleine beoordeling</a>. Dat zal me ook vreugde en motivatie geven! Ik kom bij je terug :)"
+
+#. Description of the plugin
+msgid "Retina, Replace Images, Regenerate Thumbnails, Image Sizes Management, Image Threshold and more."
+msgstr "Retina, afbeeldingen vervangen, thumbnails opnieuw genereren, beheer van afbeeldingsformaten, afbeeldingsdrempel en meer."
+
+#. translators: %1$s is the version of the interface; %2$s is a file path.
+#: common/admin.php:174
+msgid "Thanks for using <a href=\"https://meowapps.com\">Meow Apps</a>! This is the Meow Admin %1$s <br /><i>Loaded from %2$s </i>"
+msgstr "Bedankt voor het gebruiken van <a href=\"https://meowapps.com\"> Meow Apps </a>! Dit is de Meow-beheerder %1$s <br /> <i> geladen vanaf %2$s </i>"
+
+#: common/admin.php:72
+msgid "Pro Version"
+msgstr "Pro-versie"
+
+#: common/admin.php:110
+msgid "Remove the license"
+msgstr "De licentie verwijderen"
+
+#: common/admin.php:104
+msgid "<p>It looks like you are using the free version of the plugin (<b>%s</b>) but a license for the Pro version was also found. The Pro version might have been replaced by the Free version during an update (might be caused by a temporarily issue). If it is the case, <b>please download it again</b> from the <a target=\"_blank\" href=\"https://meowapps.com\">Meow Store</a>. If you wish to continue using the free version and clear this message, click on this button."
+msgstr "<p>Het lijkt erop dat je de gratis versie van de plugin (<b>%s</b>) gebruikt, maar er is ook een licentie voor de Pro versie gevonden. De Pro versie is mogelijk vervangen door de gratis versie tijdens een update (kan worden veroorzaakt door een tijdelijk probleem). Als dit het geval is, <b>download het dan opnieuw</b> uit de <a target=\"_blank\" href=\"https://meowapps.com\">Meow Store</a>. Als je de gratis versie wilt blijven gebruiken en dit bericht wilt wissen, klik je op deze knop."
+
+#: common/ratings.php:83
+msgid "Yes, I did it!"
+msgstr "Ja ik heb het gedaan!"
+
+#: common/ratings.php:78
+msgid "Remind me in a few weeks..."
+msgstr "Herinner me over een paar weken ..."
+
+#: common/ratings.php:73
+msgid "Never remind me!"
+msgstr "Herinner me nooit!"
+
+#: common/admin.php:139
+msgid "<label>Hide <b>Meow Apps</b> Menu</label><br /><small>Hide Meow Apps menu and all its components, for a cleaner admin. This option will be reset if a new Meow Apps plugin is installed. <b>Once activated, an option will be added in your General settings to display it again.</b></small>"
+msgstr "<label> Verberg <b> Meow Apps </b> Menu </label> <br /> <small> Verberg Meow Apps menu en al zijn componenten, voor een schonere admin. Deze optie wordt gereset als er een nieuwe Meow Apps-plugin is geïnstalleerd. <b> Eenmaal geactiveerd, wordt er een optie toegevoegd aan je algemene instellingen om deze opnieuw weer te geven. </b> </small>"
+
+#: classes/admin.php:75
+msgid "JetPack's <b>Photon</b> module breaks features built in WP Retina 2x (as Photos moves the files away). A common and better alternative to Photon is to use <a href='http://tracking.maxcdn.com/c/97349/3982/378'>MaxCDN</a> (very popular), CloudFlare or Fastly."
+msgstr "De <b> Photon </b> -module van JetPack breekt functies die zijn ingebouwd in WP Retina 2x (omdat foto's de bestanden weghalen). Een veelgebruikt en beter alternatief voor Photon is het gebruik van <a href='http://tracking.maxcdn.com/c/97349/3982/378'> MaxCDN </a> (erg populair), CloudFlare of Fastly."
+
+#: common/admin.php:130 common/admin.php:131 app/index.js:238
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://meowapps.com"
+msgstr "https://meowapps.com"
+
+#: classes/core.php:689
+msgid "PRO VERSION ONLY"
+msgstr "ALLEEN PRO-VERSIE"
+
+#. Author of the plugin
+msgid "Jordy Meow"
+msgstr "Jordy Meow"
+
+#: classes/rest.php:320
+msgid "You do not have permission to upload files."
+msgstr "Je hebt geen toestemming om bestanden te uploaden."
+
+#: classes/core.php:774
+msgid "This size is ignored by your retina settings."
+msgstr "Dit formaat wordt genegeerd door je retina-instellingen."
+
+#: classes/core.php:769
+msgid "The standard image normally created by WordPress is missing."
+msgstr "De standaardafbeelding die normaal door WordPress wordt gemaakt, ontbreekt."
+
+#: classes/core.php:764
+msgid "The retina image can be created. Please use the 'GENERATE' button."
+msgstr "De retina-afbeelding kan worden gemaakt. Gebruik de knop 'GENEREREN'."
+
+#: classes/core.php:754
+msgid "The Full-Size image is too small (<b>%dx%d</b>) and this size cannot be generated.<br />Please upload an image of at least <b>%dx%d</b>."
+msgstr "De afbeelding op volledig formaat is te klein (<b> %dx %d </b>) en dit formaat kan niet worden gegenereerd. <br /> Upload een afbeelding van ten minste <b> %dx %d </b> ."
+
+#: classes/core.php:750
+msgid "The retina version of the Full-Size image is missing.<br />Full Size Retina has been checked in the Settings and this image is therefore required.<br />Please drag & drop an image of at least <b>%dx%d</b> in the <b>Full-Size Retina Upload</b> column."
+msgstr "De retina-versie van de afbeelding op volledig formaat ontbreekt. <br /> Retina op volledig formaat is aangevinkt in de instellingen en deze afbeelding is daarom vereist. <br /> Sleep een afbeelding van ten minste <b> %dx  %d </b> in de kolom <b> Retina-upload op volledig formaat </b>."
+
+#: classes/core.php:732
+msgid "The image size '%s' could not be found. You probably changed your image sizes but this specific image was not re-build. This is not related to the retina plugin. You should probably use a plugin to re-generate the missing metadata and images."
+msgstr "De afbeeldingsgrootte ' %s' kan niet worden gevonden. Je hebt waarschijnlijk je afbeeldingsformaten gewijzigd, maar deze specifieke afbeelding is niet opnieuw opgebouwd. Dit is niet gerelateerd aan de retina-plugin. Je moet waarschijnlijk een plugin gebruiken om de ontbrekende metagegevens en afbeeldingen opnieuw te genereren."
+
+#: classes/core.php:728
+msgid "The metadata is broken! This is not related to the retina plugin. You should probably use a plugin to re-generate the missing metadata and images."
+msgstr "De metadata is gebroken! Dit is niet gerelateerd aan de retina-plugin. Je moet waarschijnlijk een plugin gebruiken om de ontbrekende metagegevens en afbeeldingen opnieuw te genereren."
+
+#: classes/core.php:618
+msgid "N/A"
+msgstr "N/A"

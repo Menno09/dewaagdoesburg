@@ -1,0 +1,1737 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RedChili Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-22 08:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: redchili-core"
+
+#: widgets/rt-open-hour-widget.php:124
+msgid "-"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:12 vc-modules/chef-grid.php:11
+#: vc-modules/chef.php:11 vc-modules/event-grid.php:11 vc-modules/event.php:11
+#: vc-modules/post-slider.php:11 vc-modules/recipe-grid.php:11
+#: vc-modules/recipe.php:11 vc-modules/testimonial.php:13
+#: vc-modules/woocommerce-product-layout.php:12
+msgid "1 col"
+msgstr ""
+
+#: vc-modules/chef.php:187 vc-modules/event.php:208
+#: vc-modules/post-slider.php:177 vc-modules/recipe.php:228
+#: vc-modules/testimonial.php:285 vc-modules/woocommerce-product-layout.php:378
+msgid "1 Seconds"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:13 vc-modules/chef-grid.php:12
+#: vc-modules/chef.php:12 vc-modules/event-grid.php:12 vc-modules/event.php:12
+#: vc-modules/post-slider.php:12 vc-modules/recipe-grid.php:12
+#: vc-modules/recipe.php:12 vc-modules/testimonial.php:14
+#: vc-modules/woocommerce-product-layout.php:13
+msgid "2 col"
+msgstr ""
+
+#: vc-modules/chef.php:186 vc-modules/event.php:207
+#: vc-modules/post-slider.php:176 vc-modules/recipe.php:227
+#: vc-modules/testimonial.php:284 vc-modules/woocommerce-product-layout.php:377
+msgid "2 Seconds"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:14 vc-modules/chef-grid.php:13
+#: vc-modules/chef.php:13 vc-modules/event-grid.php:13 vc-modules/event.php:13
+#: vc-modules/post-slider.php:13 vc-modules/recipe-grid.php:13
+#: vc-modules/recipe.php:13 vc-modules/testimonial.php:15
+#: vc-modules/woocommerce-product-layout.php:14
+msgid "3 col"
+msgstr ""
+
+#: vc-modules/chef.php:185 vc-modules/event.php:206
+#: vc-modules/post-slider.php:175 vc-modules/recipe.php:226
+#: vc-modules/testimonial.php:283 vc-modules/woocommerce-product-layout.php:376
+msgid "3 Seconds"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:15 vc-modules/chef-grid.php:14
+#: vc-modules/chef.php:14 vc-modules/event-grid.php:14 vc-modules/event.php:14
+#: vc-modules/post-slider.php:14 vc-modules/recipe-grid.php:14
+#: vc-modules/recipe.php:14 vc-modules/testimonial.php:16
+#: vc-modules/woocommerce-product-layout.php:15
+msgid "4 col"
+msgstr ""
+
+#: vc-modules/chef.php:184 vc-modules/event.php:205
+#: vc-modules/post-slider.php:174 vc-modules/recipe.php:225
+#: vc-modules/testimonial.php:282 vc-modules/woocommerce-product-layout.php:375
+msgid "4 Seconds"
+msgstr ""
+
+#: vc-modules/chef.php:183 vc-modules/event.php:204
+#: vc-modules/post-slider.php:173 vc-modules/recipe.php:224
+#: vc-modules/testimonial.php:281 vc-modules/woocommerce-product-layout.php:374
+msgid "5 Seconds"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:16 vc-modules/chef-grid.php:15
+#: vc-modules/chef.php:15 vc-modules/event-grid.php:15 vc-modules/event.php:15
+#: vc-modules/post-slider.php:15 vc-modules/recipe-grid.php:15
+#: vc-modules/recipe.php:15 vc-modules/testimonial.php:17
+#: vc-modules/woocommerce-product-layout.php:16
+msgid "6 col"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:59
+msgid ""
+"<p><span><span>1947</span>ipsum dolor sit amet, consectetur adipisicing elit,"
+" sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim "
+"minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.ex "
+"ea commodo consequat.</span></p>"
+msgstr ""
+
+#: widgets/about-widget.php:76
+msgid "About Company"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:57
+msgid "About Content Text"
+msgstr ""
+
+#: vc-modules/about.php:11
+msgid "About Our Coffee"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:66
+msgid "About Slider Right Images"
+msgstr ""
+
+#: post-meta.php:197
+msgid "Add New Ingredient"
+msgstr ""
+
+#: post-meta.php:227
+msgid "Add New Nutrition Item"
+msgstr ""
+
+#: post-meta.php:352
+msgid "Add New Skill"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card.php:205
+msgid "Add To Cart"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card.php:219
+#: vc-modules/views/wc-foodmenu-card2.php:149
+#: vc-modules/views/wc-foodmenu-card2.php:161
+#: vc-modules/views/wc-foodmenu-isotope-2.php:203
+#: vc-modules/views/wc-foodmenu-isotope.php:202
+#: vc-modules/views/wc-foodmenu-slider.php:134
+msgid "Add to cart"
+msgstr ""
+
+#: post-meta.php:487 widgets/address-widget.php:68
+#: vc-modules/views/contact-1.php:20
+msgid "Address"
+msgstr ""
+
+#: vc-modules/contact.php:57
+msgid "Address is coming from theme option"
+msgstr ""
+
+#: vc-modules/chef-grid.php:23 vc-modules/event-grid.php:24
+#: vc-modules/event.php:30 vc-modules/recipe-grid.php:23
+#: vc-modules/recipe.php:29 vc-modules/woocommerce-product-layout.php:29
+msgid "All Categories"
+msgstr ""
+
+#: vc-modules/event-grid.php:37
+msgid "All Events"
+msgstr ""
+
+#: vc-modules/event-grid.php:59 vc-modules/event.php:64
+#: vc-modules/woocommerce-product-layout.php:79
+msgid "Ascending"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:87 vc-modules/chef.php:150
+#: vc-modules/event.php:175 vc-modules/post-slider.php:140
+#: vc-modules/recipe.php:191 vc-modules/testimonial.php:248
+#: vc-modules/woocommerce-product-layout.php:333
+msgid "Autoplay"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:117 vc-modules/chef.php:180
+#: vc-modules/event.php:201 vc-modules/post-slider.php:170
+#: vc-modules/recipe.php:221 vc-modules/testimonial.php:278
+#: vc-modules/woocommerce-product-layout.php:371
+msgid "Autoplay Interval"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:131 vc-modules/chef.php:200
+#: vc-modules/event.php:217 vc-modules/post-slider.php:190
+#: vc-modules/recipe.php:241 vc-modules/testimonial.php:298
+#: vc-modules/woocommerce-product-layout.php:395
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: post-meta.php:148
+msgid "Background Color"
+msgstr ""
+
+#: post-meta.php:147 vc-modules/post-slider.php:62
+msgid "Background Image"
+msgstr ""
+
+#: post-meta.php:123
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:158
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:153
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:143
+msgid "Banner Background Type"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:58
+msgid "BBQ"
+msgstr ""
+
+#: vc-modules/recipe.php:42
+msgid "Box Slider"
+msgstr ""
+
+#: post-meta.php:133
+msgid "Breadcrumb"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:185
+msgid "Button Color"
+msgstr ""
+
+#: vc-modules/about.php:163
+msgid "Button Text"
+msgstr ""
+
+#: vc-modules/about.php:175
+msgid "Button URL"
+msgstr ""
+
+#: vc-modules/recipe.php:43
+msgid "Card Slider"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:42
+msgid "Carousel"
+msgstr ""
+
+#: vc-modules/chef-grid.php:42 vc-modules/chef.php:62
+#: vc-modules/event-grid.php:47 vc-modules/event.php:52
+#: vc-modules/post-slider.php:36 vc-modules/recipe-grid.php:51
+#: vc-modules/recipe.php:68 vc-modules/woocommerce-product-layout.php:53
+msgid "Categories"
+msgstr ""
+
+#: post-types.php:14
+msgid "Chef"
+msgstr ""
+
+#: post-types.php:43
+msgid "Chef Categories"
+msgstr ""
+
+#: post-types.php:42
+msgid "Chef Category"
+msgstr ""
+
+#: post-meta.php:330
+msgid "Chef Information"
+msgstr ""
+
+#: post-meta.php:348
+msgid "Chef Skills"
+msgstr ""
+
+#: post-meta.php:315
+msgid "Chef Socials"
+msgstr ""
+
+#: post-types.php:15
+msgid "Chefs"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:141
+msgid "Circle"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card.php:280
+#: vc-modules/views/wc-foodmenu-card2.php:189
+#: vc-modules/views/wc-foodmenu-isotope-2.php:187
+#: vc-modules/views/wc-foodmenu-isotope.php:186
+msgid "Close"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:46
+msgid "Closed"
+msgstr ""
+
+#: vc-modules/infobox.php:173
+msgid "Content"
+msgstr ""
+
+#: vc-modules/infobox.php:190 vc-modules/woocommerce-product-layout.php:174
+msgid "Content Color"
+msgstr ""
+
+#: vc-modules/infobox.php:182
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-modules/event-grid.php:80 vc-modules/event.php:94
+#: vc-modules/recipe-grid.php:42 vc-modules/recipe.php:59
+msgid "Content Limit"
+msgstr ""
+
+#: post-meta.php:104
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:85
+msgid "Content Padding Top"
+msgstr ""
+
+#: vc-modules/views/recipe-box-slider.php:67
+#: vc-modules/views/recipe-card-slider.php:63
+msgid "Cook Time"
+msgstr ""
+
+#: post-meta.php:177
+msgid "Cooking Time"
+msgstr ""
+
+#: widgets/address-widget.php:54
+msgid "Corporate Office"
+msgstr ""
+
+#: vc-modules/counter.php:131
+msgid "Counter Number"
+msgstr ""
+
+#: vc-modules/counter.php:134
+msgid "Counter Number to show. Like : 400"
+msgstr ""
+
+#: vc-modules/counter.php:21
+msgid "Counter Style"
+msgstr ""
+
+#: vc-modules/contact.php:81 vc-modules/title.php:72 vc-modules/upmenu.php:24
+#: vc-modules/woocommerce-product-layout.php:428
+msgid "Css"
+msgstr ""
+
+#: vc-modules/counter.php:38 vc-modules/infobox.php:39
+msgid "Custom Image"
+msgstr ""
+
+#: post-meta.php:29
+msgid "Custom Sidebar"
+msgstr ""
+
+#: vc-modules/event-grid.php:72 vc-modules/event.php:77
+#: vc-modules/woocommerce-product-layout.php:67
+msgid "Date"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:96
+msgid "Days"
+msgstr ""
+
+#: post-meta.php:12 post-meta.php:13 post-meta.php:21 post-meta.php:44
+#: post-meta.php:54 post-meta.php:64 post-meta.php:75 post-meta.php:88
+#: post-meta.php:107 post-meta.php:126 post-meta.php:136 post-meta.php:146
+#: post-meta.php:380
+msgid "Default"
+msgstr ""
+
+#: vc-modules/event-grid.php:58 vc-modules/event.php:63
+#: vc-modules/woocommerce-product-layout.php:78
+msgid "Descending"
+msgstr ""
+
+#: widgets/about-widget.php:95
+msgid "Description"
+msgstr ""
+
+#: vc-modules/contact.php:83 vc-modules/title.php:74 vc-modules/upmenu.php:26
+#: vc-modules/woocommerce-product-layout.php:430
+msgid "Design options"
+msgstr ""
+
+#: post-meta.php:333 post-meta.php:390
+msgid "Designation"
+msgstr ""
+
+#: vc-modules/testimonial.php:101
+msgid "Designation color"
+msgstr ""
+
+#: vc-modules/chef-grid.php:50 vc-modules/chef.php:50
+msgid "Designation display"
+msgstr ""
+
+#: post-meta.php:128 post-meta.php:138 vc-modules/about-with-slider.php:78
+#: vc-modules/about-with-slider.php:91 vc-modules/about-with-slider.php:104
+#: vc-modules/about-with-slider.php:149 vc-modules/chef-grid.php:54
+#: vc-modules/chef.php:54 vc-modules/chef.php:128 vc-modules/chef.php:140
+#: vc-modules/chef.php:154 vc-modules/chef.php:167 vc-modules/chef.php:218
+#: vc-modules/event.php:152 vc-modules/event.php:166 vc-modules/event.php:179
+#: vc-modules/event.php:192 vc-modules/event.php:231
+#: vc-modules/post-slider.php:118 vc-modules/post-slider.php:130
+#: vc-modules/post-slider.php:144 vc-modules/post-slider.php:157
+#: vc-modules/post-slider.php:208 vc-modules/recipe.php:181
+#: vc-modules/recipe.php:195 vc-modules/recipe.php:208
+#: vc-modules/recipe.php:259 vc-modules/testimonial.php:131
+#: vc-modules/testimonial.php:218 vc-modules/testimonial.php:234
+#: vc-modules/testimonial.php:252 vc-modules/testimonial.php:265
+#: vc-modules/testimonial.php:316 vc-modules/woocommerce-product-layout.php:303
+#: vc-modules/woocommerce-product-layout.php:319
+#: vc-modules/woocommerce-product-layout.php:337
+#: vc-modules/woocommerce-product-layout.php:354
+#: vc-modules/woocommerce-product-layout.php:417
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:46 post-meta.php:56 vc-modules/recipe-grid.php:63
+#: vc-modules/recipe.php:89 vc-modules/woocommerce-product-layout.php:112
+#: vc-modules/woocommerce-product-layout.php:127
+#: vc-modules/woocommerce-product-layout.php:201
+#: vc-modules/woocommerce-product-layout.php:211
+#: vc-modules/woocommerce-product-layout.php:222
+msgid "Disabled"
+msgstr ""
+
+#: vc-modules/about.php:12
+msgid "Discover Our Food"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:197
+msgid "Display Add To Cart"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:208
+msgid "Display Feature Product"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:108
+msgid "Display Image"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:138
+msgid "Display Image Style"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:219
+msgid "Display Pagination"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:88 widgets/rt-recent-recipe-widget.php:87
+msgid "Display post date?"
+msgstr ""
+
+#: vc-modules/testimonial.php:127
+msgid "Display Rating"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:11
+msgid "Display the opening hours"
+msgstr ""
+
+#: vc-modules/recipe-grid.php:59 vc-modules/recipe.php:85
+msgid "Display Time"
+msgstr ""
+
+#: vc-modules/views/contact-1.php:27
+msgid "E-mail"
+msgstr ""
+
+#: post-meta.php:362
+msgid "eg. 75"
+msgstr ""
+
+#: post-meta.php:357
+msgid "eg. Recipes"
+msgstr ""
+
+#: widgets/address-widget.php:76
+msgid "Email"
+msgstr ""
+
+#: vc-modules/contact.php:67
+msgid "Email Address is coming from theme option"
+msgstr ""
+
+#: post-meta.php:127 post-meta.php:137 vc-modules/about-with-slider.php:77
+#: vc-modules/about-with-slider.php:90 vc-modules/about-with-slider.php:103
+#: vc-modules/about-with-slider.php:148 vc-modules/chef-grid.php:53
+#: vc-modules/chef.php:53 vc-modules/chef.php:127 vc-modules/chef.php:141
+#: vc-modules/chef.php:153 vc-modules/chef.php:166 vc-modules/chef.php:217
+#: vc-modules/event.php:153 vc-modules/event.php:165 vc-modules/event.php:178
+#: vc-modules/event.php:191 vc-modules/event.php:230
+#: vc-modules/post-slider.php:117 vc-modules/post-slider.php:131
+#: vc-modules/post-slider.php:143 vc-modules/post-slider.php:156
+#: vc-modules/post-slider.php:207 vc-modules/recipe.php:182
+#: vc-modules/recipe.php:194 vc-modules/recipe.php:207
+#: vc-modules/recipe.php:258 vc-modules/testimonial.php:130
+#: vc-modules/testimonial.php:217 vc-modules/testimonial.php:235
+#: vc-modules/testimonial.php:251 vc-modules/testimonial.php:264
+#: vc-modules/testimonial.php:315 vc-modules/woocommerce-product-layout.php:302
+#: vc-modules/woocommerce-product-layout.php:320
+#: vc-modules/woocommerce-product-layout.php:336
+#: vc-modules/woocommerce-product-layout.php:353
+#: vc-modules/woocommerce-product-layout.php:416
+msgid "Enable"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:93 vc-modules/chef.php:156
+#: vc-modules/event.php:181 vc-modules/post-slider.php:146
+#: vc-modules/recipe.php:197 vc-modules/testimonial.php:254
+#: vc-modules/woocommerce-product-layout.php:339
+msgid "Enable or disable autoplay. Default: Enable"
+msgstr ""
+
+#: vc-modules/testimonial.php:133
+msgid "Enable or disable display rating. Default: Enable"
+msgstr ""
+
+#: vc-modules/chef.php:130 vc-modules/event.php:155
+#: vc-modules/post-slider.php:120 vc-modules/recipe.php:167
+#: vc-modules/testimonial.php:224 vc-modules/woocommerce-product-layout.php:305
+msgid "Enable or disable navigation arrow. Default: Enable"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:80 vc-modules/chef.php:143
+#: vc-modules/event.php:168 vc-modules/post-slider.php:133
+#: vc-modules/recipe.php:184 vc-modules/testimonial.php:241
+#: vc-modules/woocommerce-product-layout.php:322
+msgid "Enable or disable navigation dots. Default: Disable"
+msgstr ""
+
+#: post-meta.php:45 post-meta.php:55 vc-modules/recipe-grid.php:62
+#: vc-modules/recipe.php:88 vc-modules/woocommerce-product-layout.php:111
+#: vc-modules/woocommerce-product-layout.php:126
+#: vc-modules/woocommerce-product-layout.php:200
+#: vc-modules/woocommerce-product-layout.php:212
+#: vc-modules/woocommerce-product-layout.php:223
+msgid "Enabled"
+msgstr ""
+
+#: post-meta.php:472
+msgid "End Date"
+msgstr ""
+
+#: post-meta.php:477
+msgid "End Time"
+msgstr ""
+
+#: post-meta.php:207
+msgid "Enter Quantity eg. 60"
+msgstr ""
+
+#: post-meta.php:212
+msgid "Enter Quantity unit. Like gm, ml, litre, cup , tea spoon"
+msgstr ""
+
+#: post-meta.php:189
+msgid "Enter text eg. 2 or 5"
+msgstr ""
+
+#: post-meta.php:174 post-meta.php:179 post-meta.php:184
+msgid "Enter text eg. 20 Mins , 1 Hour"
+msgstr ""
+
+#: post-meta.php:202
+msgid "Enter text eg. 60 ml extra virgin olive oil"
+msgstr ""
+
+#: post-meta.php:223
+msgid "Enter text eg. per serving"
+msgstr ""
+
+#: post-meta.php:232
+msgid "Enter text eg. Protine: 6.60g"
+msgstr ""
+
+#: post-types.php:28
+msgid "Event"
+msgstr ""
+
+#: post-types.php:48
+msgid "Event Categories"
+msgstr ""
+
+#: post-types.php:47
+msgid "Event Category"
+msgstr ""
+
+#: post-meta.php:459
+msgid "Event Information"
+msgstr ""
+
+#: post-meta.php:510
+msgid "Event Socials Link"
+msgstr ""
+
+#: vc-modules/event-grid.php:34 vc-modules/event.php:40
+msgid "Event Type"
+msgstr ""
+
+#: post-types.php:29
+msgid "Events"
+msgstr ""
+
+#: post-meta.php:502
+msgid "External Web Link"
+msgstr ""
+
+#: post-meta.php:260 post-meta.php:403
+msgid "Facebook"
+msgstr ""
+
+#: widgets/about-widget.php:99
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/address-widget.php:80
+msgid "Fax"
+msgstr ""
+
+#: vc-modules/counter.php:36 vc-modules/infobox.php:37
+msgid "FlatIcon"
+msgstr ""
+
+#: vc-modules/counter.php:43 vc-modules/infobox.php:44
+msgid "Flaticon"
+msgstr ""
+
+#: vc-modules/views/contact-1.php:34
+msgid "Follow Us"
+msgstr ""
+
+#: vc-modules/counter.php:37 vc-modules/infobox.php:38
+msgid "FontAwesome"
+msgstr ""
+
+#: vc-modules/counter.php:58 vc-modules/infobox.php:59
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:59
+msgid "Food & Restaurant"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:21
+msgid "Friday"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:97
+msgid "From"
+msgstr ""
+
+#: post-meta.php:22
+msgid "Full Width"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:57
+msgid "Gastronimy"
+msgstr ""
+
+#: post-meta.php:300 post-meta.php:443
+msgid "Github"
+msgstr ""
+
+#: post-meta.php:275 post-meta.php:418
+msgid "Google Plus"
+msgstr ""
+
+#: widgets/about-widget.php:107
+msgid "Google Plus URL"
+msgstr ""
+
+#: post-meta.php:72
+msgid "Header Layout"
+msgstr ""
+
+#: vc-modules/testimonial.php:49
+msgid "Heading"
+msgstr ""
+
+#: vc-modules/testimonial.php:72
+msgid "Heading color"
+msgstr ""
+
+#: demo-importer.php:27
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:57
+msgid "Home 1 Onepage"
+msgstr ""
+
+#: demo-importer.php:32
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:62
+msgid "Home 2 Onepage"
+msgstr ""
+
+#: demo-importer.php:37
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:67
+msgid "Home 3 Onepage"
+msgstr ""
+
+#: demo-importer.php:42
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:72
+msgid "Home 4 Onepage"
+msgstr ""
+
+#: demo-importer.php:47
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer.php:77
+msgid "Home 5 Onepage"
+msgstr ""
+
+#: demo-importer.php:52
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer.php:82
+msgid "Home 6 Onepage"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://radiustheme.com"
+msgstr ""
+
+#: vc-modules/counter.php:10 vc-modules/infobox.php:10 vc-modules/title.php:10
+msgid "I AM TITLE"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:61
+msgid "Icon"
+msgstr ""
+
+#: vc-modules/counter.php:123 vc-modules/infobox.php:133
+msgid "Icon Bottom Margin value in px. Default: 10"
+msgstr ""
+
+#: vc-modules/counter.php:109 vc-modules/infobox.php:111
+msgid "Icon Color"
+msgstr ""
+
+#: vc-modules/counter.php:97 vc-modules/infobox.php:98
+msgid "Icon size"
+msgstr ""
+
+#: vc-modules/counter.php:99 vc-modules/infobox.php:100
+msgid "Icon size in px. Default: 36"
+msgstr ""
+
+#: vc-modules/event-grid.php:71 vc-modules/event.php:76
+#: vc-modules/woocommerce-product-layout.php:66
+msgid "ID"
+msgstr ""
+
+#: post-meta.php:155 post-meta.php:160
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: vc-modules/counter.php:74 vc-modules/infobox.php:75
+msgid "Image"
+msgstr ""
+
+#: vc-modules/counter.php:85 vc-modules/infobox.php:86
+msgid "Image Size"
+msgstr ""
+
+#: vc-modules/about.php:37
+msgid "Image( Left side )"
+msgstr ""
+
+#: vc-modules/infobox.php:184
+msgid "Info Text Font Size in px. Default: 14"
+msgstr ""
+
+#: vc-modules/contact.php:10
+msgid "Information"
+msgstr ""
+
+#: post-meta.php:192
+msgid "Ingredents"
+msgstr ""
+
+#: post-meta.php:295 post-meta.php:438
+msgid "Instagram"
+msgstr ""
+
+#: widgets/about-widget.php:127
+msgid "Instagram URL"
+msgstr ""
+
+#: demo-importer.php:19
+msgid "Install Demo Contents"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:45
+msgid "Isotope"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:46
+msgid "Isotope 2"
+msgstr ""
+
+#: post-meta.php:200
+msgid "Item"
+msgstr ""
+
+#: vc-modules/chef-grid.php:33 vc-modules/event-grid.php:89
+#: vc-modules/recipe-grid.php:33
+msgid "Items Per Page"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:72
+msgid "Latest Post"
+msgstr ""
+
+#: widgets/rt-recent-recipe-widget.php:71
+msgid "Latest Recipe"
+msgstr ""
+
+#: post-meta.php:18 vc-modules/about.php:26 vc-modules/recipe.php:39
+#: vc-modules/testimonial.php:36
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:65 post-meta.php:76
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:66 post-meta.php:77
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:67 post-meta.php:78
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:79
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:80
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:15
+msgid "Layout Settings"
+msgstr ""
+
+#: post-meta.php:23
+msgid "Left Sidebar"
+msgstr ""
+
+#: post-meta.php:270 post-meta.php:413
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/about-widget.php:111
+msgid "Linkedin URL"
+msgstr ""
+
+#: post-meta.php:492
+msgid "Location Map Latitude"
+msgstr ""
+
+#: post-meta.php:497
+msgid "Location Map Longitude"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:145 vc-modules/chef.php:214
+#: vc-modules/event.php:227 vc-modules/post-slider.php:204
+#: vc-modules/recipe.php:255 vc-modules/testimonial.php:312
+#: vc-modules/woocommerce-product-layout.php:413
+msgid "Loop"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:151 vc-modules/chef.php:220
+#: vc-modules/event.php:233 vc-modules/post-slider.php:210
+#: vc-modules/recipe.php:261 vc-modules/testimonial.php:318
+#: vc-modules/woocommerce-product-layout.php:419
+msgid "Loop to first item. Default: Enable"
+msgstr ""
+
+#: post-meta.php:35
+msgid "Main Menu"
+msgstr ""
+
+#: vc-modules/post-slider.php:56 vc-modules/woocommerce-product-layout.php:93
+msgid "Maximum number of words"
+msgstr ""
+
+#: vc-modules/event-grid.php:83 vc-modules/event.php:97
+#: vc-modules/recipe-grid.php:45 vc-modules/recipe.php:62
+msgid "Maximum number of words to display. Default: 20"
+msgstr ""
+
+#: vc-modules/recipe.php:53
+msgid "Maximum number of words to display. Default: 5"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:43
+msgid "Menu Card"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:44
+msgid "Menu Card 2"
+msgstr ""
+
+#: vc-modules/event-grid.php:73 vc-modules/event.php:78
+#: vc-modules/woocommerce-product-layout.php:68
+msgid "Menu Order"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:17
+msgid "Monday"
+msgstr ""
+
+#: vc-modules/about.php:13
+msgid ""
+"Morbi ut sapien scelerisque, fermentum ex ultrices, bibendum lacus. Aliquam "
+"id consequat ex. Integer luctus tellus at rutrum maximus. Quisque lacinia "
+"blandit quam rhoncus vulputate vulputate fermentum."
+msgstr ""
+
+#: vc-modules/about.php:14
+msgid ""
+"Morbi ut sapien scelerisque, fermentum ex ultrices, bibendum lacus. Aliquam "
+"id consequat ex. Integer luctus tellus at rutrum maximus. Quisque lacinia "
+"blandit quam rhoncus vulputate vulputate fermentum. Morbi ut sapien "
+"scelerisque, fermentum ex ultrices, bibendum lacus. Aliquam id consequat ex. "
+"Integer luctus  Integer luctus tellus at rutrum maximus. Quisque  Integer "
+"luctus tellus at rutrum maximus. Quisque"
+msgstr ""
+
+#: vc-modules/event-grid.php:70 vc-modules/event.php:75
+#: vc-modules/woocommerce-product-layout.php:65
+msgid "Name"
+msgstr ""
+
+#: vc-modules/chef.php:124 vc-modules/event.php:149
+#: vc-modules/post-slider.php:114 vc-modules/recipe.php:161
+#: vc-modules/testimonial.php:214 vc-modules/woocommerce-product-layout.php:299
+msgid "Navigation Arrow"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:74 vc-modules/chef.php:137
+#: vc-modules/event.php:162 vc-modules/post-slider.php:127
+#: vc-modules/recipe.php:178 vc-modules/testimonial.php:231
+#: vc-modules/woocommerce-product-layout.php:316
+msgid "Navigation Dots"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card.php:293
+#: vc-modules/views/wc-foodmenu-card2.php:202
+#: vc-modules/views/wc-foodmenu-isotope-2.php:236
+#: vc-modules/views/wc-foodmenu-isotope.php:234
+msgid "No Food Menu Found"
+msgstr ""
+
+#: widgets/rt-recent-recipe-widget.php:64
+msgid "No Recipe Found"
+msgstr ""
+
+#: vc-modules/event-grid.php:69 vc-modules/event.php:74
+#: vc-modules/woocommerce-product-layout.php:64
+msgid "None"
+msgstr ""
+
+#: vc-modules/counter.php:139
+msgid "Number Color"
+msgstr ""
+
+#: vc-modules/counter.php:147
+msgid "Number Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:149
+msgid "Number Font Size in px. Default: 40"
+msgstr ""
+
+#: vc-modules/chef-grid.php:62 vc-modules/chef.php:79
+#: vc-modules/event-grid.php:98 vc-modules/event.php:103
+#: vc-modules/post-slider.php:69 vc-modules/recipe-grid.php:70
+#: vc-modules/recipe.php:96 vc-modules/testimonial.php:149
+#: vc-modules/woocommerce-product-layout.php:234
+msgid "Number of columns ( Desktops > 1199px )"
+msgstr ""
+
+#: vc-modules/chef-grid.php:71 vc-modules/chef.php:88
+#: vc-modules/event-grid.php:107 vc-modules/event.php:112
+#: vc-modules/post-slider.php:78 vc-modules/recipe-grid.php:79
+#: vc-modules/recipe.php:109 vc-modules/testimonial.php:162
+#: vc-modules/woocommerce-product-layout.php:247
+msgid "Number of columns ( Desktops > 991px )"
+msgstr ""
+
+#: vc-modules/chef-grid.php:89 vc-modules/chef.php:106
+#: vc-modules/event-grid.php:125 vc-modules/event.php:130
+#: vc-modules/post-slider.php:96 vc-modules/recipe-grid.php:97
+#: vc-modules/recipe.php:135 vc-modules/testimonial.php:188
+#: vc-modules/woocommerce-product-layout.php:273
+msgid "Number of columns ( Phones < 768px )"
+msgstr ""
+
+#: vc-modules/chef.php:115 vc-modules/post-slider.php:105
+#: vc-modules/recipe.php:148 vc-modules/testimonial.php:201
+#: vc-modules/woocommerce-product-layout.php:286
+msgid "Number of columns ( Small Phones < 480px )"
+msgstr ""
+
+#: vc-modules/chef-grid.php:80 vc-modules/chef.php:97
+#: vc-modules/event-grid.php:116 vc-modules/event.php:121
+#: vc-modules/post-slider.php:87 vc-modules/recipe-grid.php:88
+#: vc-modules/recipe.php:122 vc-modules/testimonial.php:175
+#: vc-modules/woocommerce-product-layout.php:260
+msgid "Number of columns ( Tablets > 767px )"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:84 widgets/rt-recent-recipe-widget.php:83
+msgid "Number of posts to show"
+msgstr ""
+
+#: post-meta.php:187
+msgid "Number of Serving People"
+msgstr ""
+
+#: post-meta.php:217
+msgid "Nutrition"
+msgstr ""
+
+#: post-meta.php:230
+msgid "Nutrition Item"
+msgstr ""
+
+#: vc-modules/event-grid.php:66 vc-modules/event.php:71
+#: vc-modules/woocommerce-product-layout.php:61
+msgid "Order By"
+msgstr ""
+
+#: vc-modules/testimonial.php:10
+msgid "OUR CLIENTS SAY"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:10
+msgid "Our History"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card.php:170
+msgid "Out of Stock"
+msgstr ""
+
+#: post-meta.php:482
+msgid "Participant Nubmer"
+msgstr ""
+
+#: vc-modules/event-grid.php:39 vc-modules/event.php:44
+msgid "Past Events"
+msgstr ""
+
+#: vc-modules/views/contact-1.php:13
+msgid "Phone"
+msgstr ""
+
+#: widgets/address-widget.php:72
+msgid "Phone Number"
+msgstr ""
+
+#: vc-modules/contact.php:47
+msgid "Phone number is coming from theme option"
+msgstr ""
+
+#: post-meta.php:290 post-meta.php:433
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/about-widget.php:119
+msgid "Pinterest URL"
+msgstr ""
+
+#: vc-modules/contact.php:77
+msgid "Please set social Links from theme option"
+msgstr ""
+
+#: post-meta.php:240
+msgid "Please upload the PDF file here(optional)"
+msgstr ""
+
+#: vc-modules/event-grid.php:55 vc-modules/event.php:60
+#: vc-modules/woocommerce-product-layout.php:75
+msgid "Post Display Order"
+msgstr ""
+
+#: vc-modules/views/recipe-card-slider.php:56
+msgid "Preparation"
+msgstr ""
+
+#: post-meta.php:172
+msgid "Preparation Time"
+msgstr ""
+
+#: post-meta.php:320
+msgid "Put your chefs links here"
+msgstr ""
+
+#: post-meta.php:515
+msgid "Put your Event links here"
+msgstr ""
+
+#: post-meta.php:205
+msgid "Quantity"
+msgstr ""
+
+#. Author of the plugin
+msgid "Radius Theme"
+msgstr ""
+
+#. Base ID
+#: widgets/about-widget.php:10
+msgid "RDTheme: About"
+msgstr ""
+
+#: widgets/about-widget.php:11
+msgid "RDTheme: About Widget With Social Link"
+msgstr ""
+
+#. Base ID
+#: widgets/address-widget.php:10
+msgid "RDTheme: Address"
+msgstr ""
+
+#: widgets/address-widget.php:11
+msgid "RDTheme: Address Widget"
+msgstr ""
+
+#: widgets/rt-recent-recipe-widget.php:13
+msgid "RDTheme: Latest Recipe"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:14
+msgid "RDTheme: Opening Hours"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:13
+msgid "RDTheme: Recent Posts"
+msgstr ""
+
+#: vc-modules/about.php:15 vc-modules/views/wc-foodmenu-card.php:215
+#: vc-modules/views/wc-foodmenu-card.php:237
+#: vc-modules/views/wc-foodmenu-card2.php:129
+#: vc-modules/views/wc-foodmenu-card2.php:145
+#: vc-modules/views/wc-foodmenu-card2.php:167
+#: vc-modules/views/wc-foodmenu-isotope-2.php:165
+#: vc-modules/views/wc-foodmenu-isotope-2.php:199
+#: vc-modules/views/wc-foodmenu-isotope-2.php:222
+#: vc-modules/views/wc-foodmenu-isotope.php:164
+#: vc-modules/views/wc-foodmenu-isotope.php:198
+#: vc-modules/views/wc-foodmenu-isotope.php:222
+#: vc-modules/views/wc-foodmenu-slider.php:115
+#: vc-modules/views/wc-foodmenu-slider.php:130
+#: vc-modules/views/wc-foodmenu-slider.php:156
+msgid "Read More"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-isotope-2.php:135
+msgid "Read more"
+msgstr ""
+
+#: post-meta.php:182 vc-modules/views/recipe-box-slider.php:72
+#: vc-modules/views/recipe-card-slider.php:70
+msgid "Ready In"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/rt-recent-recipe-widget.php:22
+msgid "Recent Recipe"
+msgstr ""
+
+#: post-types.php:7
+msgid "Recipe"
+msgstr ""
+
+#: post-types.php:38
+msgid "Recipe Categories"
+msgstr ""
+
+#: post-types.php:37
+msgid "Recipe Category"
+msgstr ""
+
+#: post-meta.php:169
+msgid "Recipe Information"
+msgstr ""
+
+#: post-meta.php:238
+msgid "Recipe PDF"
+msgstr ""
+
+#: post-types.php:8
+msgid "Recipes"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:45
+msgid "Red Chili"
+msgstr ""
+
+#. Description of the plugin
+msgid "Red Chili Core Plugin for RedChili Theme"
+msgstr ""
+
+#: vc-modules/about.php:7
+msgid "Red Chili: About"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:7
+msgid "Red Chili: About With Slider"
+msgstr ""
+
+#: vc-modules/chef.php:7
+msgid "Red Chili: Chef"
+msgstr ""
+
+#: vc-modules/chef-grid.php:7
+msgid "Red Chili: Chef Grid View"
+msgstr ""
+
+#: vc-modules/contact.php:7
+msgid "Red Chili: Contact"
+msgstr ""
+
+#: vc-modules/counter.php:7
+msgid "Red Chili: Counter"
+msgstr ""
+
+#: vc-modules/event-grid.php:7
+msgid "Red Chili: Event Grid"
+msgstr ""
+
+#: vc-modules/event.php:7
+msgid "Red Chili: Event Slider"
+msgstr ""
+
+#: vc-modules/infobox.php:7
+msgid "Red Chili: Info Box"
+msgstr ""
+
+#: vc-modules/post-slider.php:7
+msgid "Red Chili: Post Slider"
+msgstr ""
+
+#: vc-modules/recipe.php:7
+msgid "Red Chili: Recipe"
+msgstr ""
+
+#: vc-modules/recipe-grid.php:7
+msgid "Red Chili: Recipe Grid"
+msgstr ""
+
+#: vc-modules/title.php:7
+msgid "Red Chili: Section Title"
+msgstr ""
+
+#: vc-modules/testimonial.php:7
+msgid "Red Chili: Testimonial"
+msgstr ""
+
+#: vc-modules/upmenu.php:7
+msgid "Red Chili: Upmenu"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:7
+msgid "Red Chili: WooCommerce Food Menu"
+msgstr ""
+
+#: vc-modules/about.php:10
+msgid "Red Chili<br>For Getting Real Taste"
+msgstr ""
+
+#. Name of the plugin
+msgid "RedChili Core"
+msgstr ""
+
+#: vc-flaticon/vc-flaticon.php:60
+msgid "Restaurant"
+msgstr ""
+
+#: post-meta.php:24
+msgid "Right Sidebar"
+msgstr ""
+
+#: widgets/about-widget.php:123
+msgid "Rss Feed URL"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:22
+msgid "Saturday"
+msgstr ""
+
+#: vc-modules/about.php:186
+msgid "Section Bottom Image"
+msgstr ""
+
+#: vc-modules/counter.php:27
+msgid "Select Counter Style"
+msgstr ""
+
+#: vc-modules/infobox.php:28
+msgid "Select Info Box Style"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card2.php:137
+#: vc-modules/views/wc-foodmenu-isotope-2.php:172
+#: vc-modules/views/wc-foodmenu-isotope.php:171
+msgid "Select Option"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-slider.php:121
+msgid "Select options"
+msgstr ""
+
+#: post-meta.php:377
+msgid "Select the Rating"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:124 vc-modules/chef.php:193
+#: vc-modules/event.php:210 vc-modules/post-slider.php:183
+#: vc-modules/recipe.php:234 vc-modules/testimonial.php:291
+#: vc-modules/woocommerce-product-layout.php:384
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: vc-modules/infobox.php:151
+msgid "Set The URL for the Title. Default: #"
+msgstr ""
+
+#: vc-modules/about.php:137 vc-modules/about.php:150
+msgid "Short Description"
+msgstr ""
+
+#: vc-modules/contact.php:54
+msgid "Show Address"
+msgstr ""
+
+#: vc-modules/contact.php:64
+msgid "Show Email Address"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:123
+msgid "Show Link to Title & Image"
+msgstr ""
+
+#: vc-modules/chef-grid.php:56 vc-modules/chef.php:56
+msgid "Show or hide Chef's designation. Default: Enabled"
+msgstr ""
+
+#: post-meta.php:337
+msgid "Show Other Chef"
+msgstr ""
+
+#: post-meta.php:243
+msgid "Show Other Recipes"
+msgstr ""
+
+#: vc-modules/contact.php:44
+msgid "Show Phone Number"
+msgstr ""
+
+#: vc-modules/contact.php:74
+msgid "Show Social Links"
+msgstr ""
+
+#: post-meta.php:355
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:360
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: post-meta.php:280 post-meta.php:423
+msgid "Skype"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:138 vc-modules/chef.php:207
+#: vc-modules/event.php:220 vc-modules/post-slider.php:197
+#: vc-modules/recipe.php:248 vc-modules/testimonial.php:305
+#: vc-modules/woocommerce-product-layout.php:402
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:68 vc-modules/about-with-slider.php:81
+#: vc-modules/about-with-slider.php:94 vc-modules/about-with-slider.php:111
+#: vc-modules/about-with-slider.php:125 vc-modules/about-with-slider.php:139
+#: vc-modules/about-with-slider.php:152 vc-modules/chef.php:131
+#: vc-modules/chef.php:144 vc-modules/chef.php:157 vc-modules/chef.php:174
+#: vc-modules/chef.php:194 vc-modules/chef.php:208 vc-modules/chef.php:221
+#: vc-modules/event.php:156 vc-modules/event.php:169 vc-modules/event.php:182
+#: vc-modules/event.php:195 vc-modules/event.php:211 vc-modules/event.php:221
+#: vc-modules/event.php:234 vc-modules/post-slider.php:121
+#: vc-modules/post-slider.php:134 vc-modules/post-slider.php:147
+#: vc-modules/post-slider.php:164 vc-modules/post-slider.php:184
+#: vc-modules/post-slider.php:198 vc-modules/post-slider.php:211
+#: vc-modules/recipe.php:168 vc-modules/recipe.php:185
+#: vc-modules/recipe.php:198 vc-modules/recipe.php:215
+#: vc-modules/recipe.php:235 vc-modules/recipe.php:249
+#: vc-modules/recipe.php:262 vc-modules/testimonial.php:225
+#: vc-modules/testimonial.php:242 vc-modules/testimonial.php:255
+#: vc-modules/testimonial.php:272 vc-modules/testimonial.php:292
+#: vc-modules/testimonial.php:306 vc-modules/testimonial.php:319
+#: vc-modules/woocommerce-product-layout.php:306
+#: vc-modules/woocommerce-product-layout.php:323
+#: vc-modules/woocommerce-product-layout.php:340
+#: vc-modules/woocommerce-product-layout.php:361
+#: vc-modules/woocommerce-product-layout.php:385
+#: vc-modules/woocommerce-product-layout.php:403
+#: vc-modules/woocommerce-product-layout.php:420
+msgid "Slider Options"
+msgstr ""
+
+#: vc-modules/chef.php:39
+msgid "Slider Style"
+msgstr ""
+
+#: post-meta.php:318 post-meta.php:513
+msgid "Socials"
+msgstr ""
+
+#: vc-modules/counter.php:121
+msgid "Space Below Icon"
+msgstr ""
+
+#: vc-modules/infobox.php:131
+msgid "Space Below of Icon"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:142
+msgid "Square"
+msgstr ""
+
+#: post-meta.php:305 post-meta.php:448
+msgid "Stackoverflow"
+msgstr ""
+
+#: post-meta.php:462
+msgid "Start Date"
+msgstr ""
+
+#: post-meta.php:467
+msgid "Start Time"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:110 vc-modules/chef.php:173
+#: vc-modules/event.php:194 vc-modules/post-slider.php:163
+#: vc-modules/recipe.php:214 vc-modules/testimonial.php:271
+#: vc-modules/woocommerce-product-layout.php:360
+msgid "Stop autoplay on mouse hover. Default: Enable"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:100 vc-modules/chef.php:163
+#: vc-modules/event.php:188 vc-modules/post-slider.php:153
+#: vc-modules/recipe.php:204 vc-modules/testimonial.php:261
+#: vc-modules/woocommerce-product-layout.php:350
+msgid "Stop on Hover"
+msgstr ""
+
+#: vc-modules/infobox.php:22 vc-modules/woocommerce-product-layout.php:39
+msgid "Style"
+msgstr ""
+
+#: vc-modules/counter.php:24 vc-modules/infobox.php:25
+msgid "Style 01"
+msgstr ""
+
+#: vc-modules/counter.php:25 vc-modules/infobox.php:26
+msgid "Style 02"
+msgstr ""
+
+#: vc-modules/chef.php:42 vc-modules/testimonial.php:39
+msgid "Style 1"
+msgstr ""
+
+#: vc-modules/chef.php:43 vc-modules/testimonial.php:40
+msgid "Style 2"
+msgstr ""
+
+#: vc-modules/testimonial.php:41
+msgid "Style 3"
+msgstr ""
+
+#: vc-modules/testimonial.php:42
+msgid "Style 4 - Half Width"
+msgstr ""
+
+#: vc-modules/testimonial.php:83
+msgid "Sub Heading Color"
+msgstr ""
+
+#: vc-modules/about.php:90 vc-modules/about.php:125
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: vc-modules/testimonial.php:61
+msgid "Sub-Heading"
+msgstr ""
+
+#: post-meta.php:221 vc-modules/about.php:102 vc-modules/title.php:37
+msgid "Subtitle"
+msgstr ""
+
+#: vc-modules/about.php:113 vc-modules/title.php:59
+msgid "Subtitle color"
+msgstr ""
+
+#: vc-modules/title.php:66
+msgid "Subtitle Line color"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:23
+msgid "Sunday"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:10
+msgid "Sweet Dessert"
+msgstr ""
+
+#: post-types.php:21
+msgid "Testimonial"
+msgstr ""
+
+#: post-meta.php:374
+msgid "Testimonial Information"
+msgstr ""
+
+#: post-types.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: vc-modules/testimonial.php:115
+msgid "Text Border color"
+msgstr ""
+
+#: vc-modules/about.php:43
+msgid "Text Box color"
+msgstr ""
+
+#: vc-modules/testimonial.php:108
+msgid "Text color"
+msgstr ""
+
+#: vc-modules/infobox.php:11
+msgid ""
+"This is the best restaurant wordpress theme around the country. The red "
+"chili Restuarant theme is the main reason for that. radius theme has done a "
+"tremendous work here."
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:20
+msgid "Thursday"
+msgstr ""
+
+#: vc-modules/views/recipe-box-slider.php:62
+#: vc-modules/views/recipe-grid-view.php:77
+msgid "Time"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:34 vc-modules/about.php:55
+#: vc-modules/about.php:67 vc-modules/contact.php:21 vc-modules/counter.php:157
+#: vc-modules/infobox.php:141 vc-modules/title.php:21
+#: widgets/about-widget.php:91 widgets/address-widget.php:64
+#: widgets/rt-recent-post-widget.php:80 widgets/rt-recent-recipe-widget.php:79
+msgid "Title"
+msgstr ""
+
+#: vc-modules/counter.php:164 vc-modules/infobox.php:165
+#: vc-modules/woocommerce-product-layout.php:152
+msgid "Title Color"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:41 vc-modules/about.php:78
+#: vc-modules/contact.php:36 vc-modules/testimonial.php:94
+#: vc-modules/title.php:52
+msgid "Title color"
+msgstr ""
+
+#: vc-modules/about-with-slider.php:49 vc-modules/contact.php:29
+#: vc-modules/counter.php:172 vc-modules/infobox.php:157
+#: vc-modules/title.php:29 vc-modules/title.php:45
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:174 vc-modules/infobox.php:159
+msgid "Title Font Size in px. Default: 14"
+msgstr ""
+
+#: vc-modules/woocommerce-product-layout.php:163
+msgid "Title Hover Color"
+msgstr ""
+
+#: vc-modules/recipe.php:50
+msgid "Title Limit"
+msgstr ""
+
+#: vc-modules/infobox.php:148
+msgid "Title URL"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:91
+msgid "Title:"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:99
+msgid "To"
+msgstr ""
+
+#: post-meta.php:51
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:61
+msgid "Top Bar Layout"
+msgstr ""
+
+#: vc-modules/chef.php:70 vc-modules/event.php:85 vc-modules/recipe.php:76
+#: vc-modules/testimonial.php:140 vc-modules/woocommerce-product-layout.php:99
+msgid "Total number of items"
+msgstr ""
+
+#: vc-modules/post-slider.php:44
+msgid "Total number of posts"
+msgstr ""
+
+#: post-meta.php:41
+msgid "Transparent Header"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:18
+msgid "Tuesday"
+msgstr ""
+
+#: post-meta.php:265 post-meta.php:408
+msgid "Twitter"
+msgstr ""
+
+#: widgets/about-widget.php:103
+msgid "Twitter URL"
+msgstr ""
+
+#: post-meta.php:210
+msgid "Unit"
+msgstr ""
+
+#: vc-modules/event-grid.php:38 vc-modules/event.php:43
+msgid "Upcoming Events"
+msgstr ""
+
+#: vc-modules/upmenu.php:18
+msgid "Upmenu "
+msgstr ""
+
+#: vc-modules/counter.php:33 vc-modules/infobox.php:34
+msgid "Use Icon or Image"
+msgstr ""
+
+#: vc-modules/views/wc-foodmenu-card.php:211
+#: vc-modules/views/wc-foodmenu-card2.php:141
+#: vc-modules/views/wc-foodmenu-isotope-2.php:195
+#: vc-modules/views/wc-foodmenu-isotope.php:194
+#: vc-modules/views/wc-foodmenu-slider.php:126
+msgid "View options"
+msgstr ""
+
+#: demo-importer.php:12
+#, php-format
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website. For existing website "
+"please use XML data import method which is described in the documentation <a "
+"%s>here</a>"
+msgstr ""
+
+#: widgets/rt-open-hour-widget.php:19
+msgid "Wednesday"
+msgstr ""
+
+#: vc-modules/testimonial.php:11
+msgid "What Client Say"
+msgstr ""
+
+#: vc-modules/post-slider.php:53 vc-modules/woocommerce-product-layout.php:86
+msgid "Word count"
+msgstr ""
+
+#: vc-modules/chef-grid.php:36 vc-modules/chef.php:73
+#: vc-modules/event-grid.php:92 vc-modules/event.php:88
+#: vc-modules/post-slider.php:47 vc-modules/recipe-grid.php:36
+#: vc-modules/recipe.php:79 vc-modules/testimonial.php:143
+#: vc-modules/woocommerce-product-layout.php:102
+msgid "Write -1 to show all"
+msgstr ""
+
+#: vc-modules/infobox.php:176
+msgid "Write Your Information here"
+msgstr ""
+
+#: widgets/rt-recent-post-widget.php:10
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: widgets/rt-recent-recipe-widget.php:10
+msgid "Your site&#8217;s most recent recipes."
+msgstr ""
+
+#: post-meta.php:285 post-meta.php:428
+msgid "Youtube"
+msgstr ""
+
+#: widgets/about-widget.php:115
+msgid "Youtube URL"
+msgstr ""

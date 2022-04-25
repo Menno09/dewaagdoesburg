@@ -1,0 +1,279 @@
+# Translation of Plugins - WP Extended Search - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP Extended Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-29 11:18:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Extended Search - Stable (latest release)\n"
+
+#: includes/admin/class-wpes-admin.php:166
+msgid "Select"
+msgstr "Selecteren"
+
+#: includes/admin/class-wpes-admin.php:165
+msgid "No results found."
+msgstr "Geen resultaten gevonden."
+
+#: includes/class-wpes-search-form.php:142
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: includes/admin/class-wpes-settings-cpt.php:292
+msgid "Notes:"
+msgstr "Notities:"
+
+#: includes/admin/class-wpes-settings-cpt.php:263
+msgid "Default value:"
+msgstr "Standaardwaarde:"
+
+#: includes/admin/class-wpes-settings-cpt.php:254
+msgid "Parameters:"
+msgstr "Parameters:"
+
+#: includes/admin/class-wpes-settings-cpt.php:235
+msgid "PHP"
+msgstr "PHP"
+
+#: includes/admin/class-wpes-settings-cpt.php:214
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/admin/class-wpes-settings-cpt.php:228
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/class-wpes-admin.php:323
+msgid "Edit Name"
+msgstr "Bewerk naam"
+
+#: includes/admin/class-wpes-admin.php:586
+msgid "No"
+msgstr "Nee"
+
+#: includes/admin/class-wpes-admin.php:585
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/admin/class-wpes-admin.php:563
+msgid "Random"
+msgstr "Willekeurig"
+
+#: includes/admin/class-wpes-admin.php:562
+msgid "Number of Comments"
+msgstr "Aantal reacties"
+
+#: includes/admin/class-wpes-admin.php:561
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: includes/admin/class-wpes-admin.php:560
+msgid "Post Slug"
+msgstr "Berichtslug"
+
+#: includes/admin/class-wpes-admin.php:559
+msgid "Post Title"
+msgstr "Berichttitel"
+
+#: includes/admin/class-wpes-admin.php:557
+msgid "Date"
+msgstr "Datum"
+
+#: includes/admin/class-wpes-admin.php:556
+msgid "Relevance"
+msgstr "Relevantie"
+
+#: includes/admin/class-wpes-admin.php:574
+msgid "Order the sorted search items in Descending or Ascending. Default is Descending."
+msgstr "Sorteer de geselecteerde zoekitems in aflopende of oplopende volgorde. Standaard is aflopend."
+
+#. translators: %1$s: anchor tag opening, %2$s: anchor tag closed.
+#: includes/admin/class-wpes-admin.php:568
+msgid "Sort search results based on metadata of items. The default value is %1$sRelevance%2$s."
+msgstr "Sorteer zoekresultaten op basis van metadata van items. De standaardwaarde is %1$sRelevantie%2$s."
+
+#: includes/admin/class-wpes-admin.php:137
+msgid "Search Results Order"
+msgstr "Volgorde zoekresultaten"
+
+#: includes/admin/class-wpes-admin.php:133
+msgid "Match the search term exactly"
+msgstr "Exact overeenkomen met de zoekterm"
+
+#: includes/admin/class-wpes-admin.php:515
+msgid "This option is disabled because you have selected \"Match the search term exactly\".  When using the exact match option, the sentence is not broken into terms instead the whole sentence is matched thus this option has no meaning."
+msgstr "Deze optie is uitgeschakeld omdat je \"Exact overeenkomen met de zoekterm\" hebt geselecteerd. Wanneer je de optie om exact overeen te komen gebruikt, wordt de zin niet verdeeld in stukken, maar moet de hele zin overeenkomen. Dus deze optie heeft geen betekenis."
+
+#: includes/admin/class-wpes-admin.php:573
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: includes/admin/class-wpes-admin.php:558
+msgid "Last Modified Date"
+msgstr "Laatste datum wijziging"
+
+#: includes/admin/class-wpes-admin.php:572
+msgid "Descending"
+msgstr "Aflopend"
+
+#: includes/admin/class-wpes-admin.php:587
+msgid "Whether to match search term exactly or partially e.g. If someone search \"Word\" it will display items matching \"WordPress\" or \"Word\" but if you select Yes then it will display items only matching \"Word\". The default value is No."
+msgstr "Of de zoekterm exact of gedeeltelijk overeenkomt. Als iemand bijvoorbeeld zoekt op \"Word\", worden items getoond die overeenkomen met \"WordPress\" of \"Word\", maar als je Ja selecteert, worden alleen items getoond die overeenkomen met \"Word\". De standaardwaarde is Nee."
+
+#: includes/admin/class-wpes-admin.php:666
+msgid "More Plugins"
+msgstr "Meer plugins"
+
+#: includes/admin/class-wpes-admin.php:357
+msgid "Search in Excerpt"
+msgstr "Zoek in samenvatting"
+
+#: includes/admin/class-wpes-admin.php:663
+msgid "Docs"
+msgstr "Documentatie"
+
+#: includes/admin/class-wpes-admin.php:509
+msgid "AND"
+msgstr "AND"
+
+#: includes/admin/class-wpes-admin.php:111
+msgid "Miscellaneous Settings"
+msgstr "Overige instellingen"
+
+#: includes/admin/class-wpes-admin.php:136
+msgid "Posts per page"
+msgstr "Berichten per pagina"
+
+#. Author of the plugin
+msgid "5um17"
+msgstr "5um17"
+
+#. Plugin Name of the plugin
+msgid "WP Extended Search"
+msgstr "WP Extended Search"
+
+#: includes/admin/class-wpes-admin.php:445
+msgid "Search in Author display name"
+msgstr "Zoek in weergavenaam van auteur"
+
+#: includes/admin/class-wpes-admin.php:353
+msgid "Search in Content"
+msgstr "Zoek in de inhoud"
+
+#: includes/admin/class-wpes-admin.php:349
+msgid "Search in Title"
+msgstr "Zoek in de titel"
+
+#: includes/admin/class-wpes-admin.php:276
+msgid "Every field have OR relation with each other. e.g. if someone search for \"5um17\" then search results will show those items which have \"5um17\" as meta value or taxonomy's term or in title or in content, whatever option is selected."
+msgstr "Elk veld heeft een OR relatie met elkaar. Als iemand b.v. zoekt op \"5um17\", dan zullen de zoekresultaten bestaan uit items die \"5um17\" als meta-waarde of taxonomie-term hebben, of waar dit in de titel of inhoud voorkomt, welke optie ook is geselecteerd."
+
+#: includes/admin/class-wpes-admin.php:262
+msgid "Date seems to be in invalid format!"
+msgstr "Datum lijkt een ongeldig formaat te hebben!"
+
+#: includes/admin/class-wpes-admin.php:257
+msgid "Select atleast one setting to search!"
+msgstr "Selecteer tenminste één instelling om te zoeken!"
+
+#: includes/admin/class-wpes-admin.php:252
+msgid "Select atleast one post type!"
+msgstr "Selecteer tenminste één berichttype!"
+
+#: includes/admin/class-wpes-admin.php:247
+msgid "Settings has been changed to WordPress default search setting."
+msgstr "Instellingen zijn gewijzigd naar de standaard WordPress zoekinstelling."
+
+#: includes/admin/class-wpes-admin.php:135
+msgid "Select date to exclude older results"
+msgstr "Selecteer datum om oudere zoekresultaten uit te sluiten"
+
+#: includes/admin/class-wpes-admin.php:130
+msgid "Terms Relation Type"
+msgstr "Termen relatietype"
+
+#: includes/admin/class-wpes-admin.php:129
+msgid "Select Post Types"
+msgstr "Selecteer berichttypen"
+
+#: includes/admin/class-wpes-admin.php:128
+msgid "Author Setting"
+msgstr "Auteurinstelling"
+
+#: includes/admin/class-wpes-admin.php:127
+msgid "Select Taxonomies"
+msgstr "Selecteer taxonomieën"
+
+#: includes/admin/class-wpes-admin.php:126
+msgid "Select Meta Key Names"
+msgstr "Selecteer meta-sleutel namen"
+
+#: includes/admin/class-wpes-admin.php:125
+msgid "General Search Setting"
+msgstr "Algemene zoekinstelling"
+
+#: includes/admin/class-wpes-admin.php:107
+msgid "Select Fields to include in WordPress default Search"
+msgstr "Selecteer velden om op te nemen in de standaard zoekfunctie van WordPress"
+
+#: includes/admin/class-wpes-admin.php:80
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: includes/admin/class-wpes-admin.php:382
+msgid "No meta key found!"
+msgstr "Geen meta-sleutel gevonden!"
+
+#: includes/admin/class-wpes-admin.php:72
+#: includes/admin/class-wpes-admin.php:682
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/admin/class-wpes-admin.php:544
+msgid "Number of posts to display on search result page OR leave blank for default value."
+msgstr "Aantal berichten dat moet worden getoond op de pagina met zoekresultaten of laat leeg voor de standaardwaarde."
+
+#: includes/admin/class-wpes-admin.php:532
+msgid "Contents will not appear in search results older than this date OR leave blank to disable this feature."
+msgstr "Inhoud wordt niet getoond in zoekresultaten die ouder zijn dan deze datum of laat leeg om deze functie uit te schakelen."
+
+#: includes/admin/class-wpes-admin.php:496
+msgid "No public post type found!"
+msgstr "Geen publiek berichttype gevonden!"
+
+#: includes/admin/class-wpes-admin.php:446
+msgid "If checked then it will display those results whose Author \"Display name\" match the search terms."
+msgstr "Indien aangevinkt, worden de resultaten getoond waarvan de \"Weergavenaam\" van de auteur overeenkomt met de zoektermen."
+
+#: includes/admin/class-wpes-admin.php:431
+msgid "No public taxonomy found!"
+msgstr "Geen publieke taxonomie gevonden!"
+
+#: includes/admin/class-wpes-admin.php:82
+msgid "Reset to WP default"
+msgstr "Herstel naar standaard WP"
+
+#. Author URI of the plugin
+msgid "https://www.secretsofgeeks.com"
+msgstr "https://www.secretsofgeeks.com"
+
+#. Plugin URI of the plugin
+msgid "https://www.secretsofgeeks.com/2014/09/wordpress-search-tags-and-categories.html"
+msgstr "https://www.secretsofgeeks.com/2014/09/wordpress-search-tags-and-categories.html"
+
+#: includes/admin/class-wpes-admin.php:517
+msgid "Type of query relation between search terms. e.g. someone searches for \"my query\" then define the relation between \"my\" and \"query\". The default value is AND."
+msgstr "Type queryrelatie tussen zoektermen. Als iemand bijvoorbeeld zoekt op \"mijn query\", definieer dan de relatie tussen \"mijn\" en \"query\". Standaardwaarde is AND."
+
+#. Description of the plugin
+msgid "Extend search functionality to search in selected post meta, taxonomies, post types, and all authors."
+msgstr "De standaard zoekfunctie uitbreiden door te zoeken in geselecteerde berichtmeta, taxonomieën, berichttypen en alle auteurs."
+
+#: includes/admin/class-wpes-admin.php:510
+msgid "OR"
+msgstr "OF"

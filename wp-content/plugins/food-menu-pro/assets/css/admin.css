@@ -1,0 +1,589 @@
+/* ============== Misc START ============== */
+/* loading */
+.rt-licensing-btn.danger {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.rt-licence-msg {
+    color: red;
+    padding: 5px 0;
+}
+
+.rt-licence-msg.success {
+    color: green;
+    padding: 5px 0;
+}
+
+#license_key_holder .description span {
+    display: block;
+}
+
+#fmsc_sc_preview_meta.loading .fmp-response {
+    position: absolute;
+    width: calc(100% - 24px);
+    text-align: center;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#fmsc_sc_preview_meta.loading #fmp-preview-container {
+    max-height: 200px;
+    overflow: hidden;
+    opacity: .3;
+}
+
+#fmp-preview-container .fmp-isotope-buttons {
+    font-size: 1rem;
+}
+
+#fmp-preview-container .fmp-isotope-buttons button {
+    cursor: pointer;
+}
+
+.fmp-feature-img {
+    object-fit: cover;
+}
+
+#fmp_custom_image_size_holder .rt-image-size-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#fmp_custom_image_size_holder .rt-image-size-holder .rt-image-size label {
+    margin-right: 10px;
+}
+
+#fmp_custom_image_size_holder .rt-image-size-holder .rt-image-size .select2-container {
+    width: 110px !important;
+}
+
+@media screen and (max-width: 1199px) {
+    #fmp_custom_image_size_holder .rt-image-size-holder .rt-image-size {
+        padding: 5px 0;
+    }
+    #fmp_custom_image_size_holder .rt-image-size-holder .rt-image-size label {
+        width: 60px;
+        display: inline-block;
+    }
+}
+
+/* ============== Misc END ================ */
+/* ============== Food meta data START ============== */
+
+.fmp_error_tip {
+    color: #fff;
+    font-size: .8em;
+    max-width: 150px;
+    background: #333;
+    text-align: center;
+    border-radius: 3px;
+    padding: .618em 1em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.fmp_error_tip code {
+    padding: 1px;
+    background: #888;
+}
+
+#tiptip_arrow,
+#tiptip_arrow_inner {
+    position: absolute;
+    border: 6px solid transparent;
+    height: 0;
+    width: 0;
+}
+
+.fmp_error_tip {
+    max-width: 20em;
+    line-height: 1.8em;
+    position: absolute;
+    white-space: normal;
+    background: #d82223;
+    margin: 1.5em 1px 0 -1em;
+    z-index: 9999999;
+}
+
+.fmp_error_tip:after {
+    content: "";
+    display: block;
+    border: 8px solid transparent;
+    border-bottom-color: #d82223;
+    position: absolute;
+    top: -3px;
+    left: 50%;
+    margin: -1em 0 0 -3px;
+}
+
+#fmp-food-data .inside {
+    margin: 0;
+    padding: 0;
+}
+
+#fmp-food-data .fmp-panel-wrapper {
+    display: flex;
+}
+
+.fmp-panel-wrapper .fmp_data_tabs {
+    margin: 0;
+    flex: 0 0 20%;
+    line-height: 1em;
+    padding: 0 0 10px;
+    position: relative;
+    background-color: #fafafa;
+    border-right: 1px solid #eee;
+    box-sizing: border-box;
+}
+
+.fmp_data_tabs li {
+    margin: 0;
+    padding: 0;
+    display: block;
+    position: relative;
+}
+
+
+.fmp_data_tabs li a {
+    margin: 0;
+    padding: 10px;
+    display: block;
+    box-shadow: none;
+    text-decoration: none;
+    line-height: 20px !important;
+    border-bottom: 1px solid #eee;
+}
+
+.fmp_data_tabs li.active a {
+    color: #555;
+    position: relative;
+    background-color: #eee;
+}
+
+.fmp_data_tabs li a::before {
+    font-family: Dashicons, serif;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "";
+    text-decoration: none;
+}
+
+.fmp_data_tabs li.general_options a::before {
+    content: "\f107";
+}
+
+.fmp_data_tabs li.ingredient_options a::before {
+    content: "\f175";
+}
+
+.fmp_data_tabs li.nutrition_options a::before {
+    content: "\f511";
+}
+
+.fmp_data_tabs li.advanced_options a::before {
+    content: "\f111";
+}
+
+.fmp_data_tabs li a span {
+    margin-left: .618em;
+    margin-right: .618em;
+}
+
+.fmp-panel-wrapper .fmp_options_panel {
+    flex: 1;
+    display: none;
+    min-height: 175px;
+    box-sizing: border-box;
+}
+
+.fmp_options_panel .rt-label {
+    font-weight: normal;
+    flex: 0 0 150px;
+}
+
+.fmp_options_panel #ingredient-container,
+.fmp_options_panel #nutrition-container {
+    padding: 5px;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.fmp-lists-container .fmp-sortable-list {
+    position: relative;
+    padding: 50px 10px 10px 10px;
+    border: 1px solid #eee;
+    margin: 0;
+    min-height: 50px;
+    flex: 2;
+}
+
+.fmp-lists-container .fmp-active-list.fmp-sortable-list {
+    flex: 1;
+    margin-right: 5px;
+}
+
+.fmp-sortable-list:before {
+    content: attr(data-title);
+    background: #eee;
+    padding: 10px 0;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: 0;
+    margin-left: -10px;
+}
+
+.fmp-sortable-list .fmp-sortable-item,
+.fmp-sortable-list .fmp-sortable-item label {
+    cursor: move;
+}
+
+.fmp-active-list .fmp-sortable-item {
+    background: #f3f3f3;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.fmp-active-list .fmp-sortable-item + li {
+    margin-top: 6px;
+}
+
+.fmp-sortable-item-values > * {
+    width: 48%;
+    box-sizing: border-box;
+}
+
+.fmp-available-list .fmp-sortable-item {
+    width: 150px;
+    float: left;
+    background: #f3f3f3;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.fmp_options_panel .variation-wrapper .toolbar {
+    margin: 0 !important;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #eee;
+    padding: 9px 12px !important;
+}
+
+.fmp_variations .fmp-metabox h3 {
+    margin: 0 !important;
+    padding: .75em .75em .75em 1em !important;
+    font-size: 1em !important;
+    overflow: hidden;
+    zoom: 1;
+    cursor: move;
+}
+
+.fmp_variations .fmp-metabox {
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    margin: 0 !important;
+}
+
+.fmp_variations .fmp-metabox.closed {
+    border-radius: 3px;
+}
+
+.fmp_variations .fmp_variation.fmp-metabox h3 {
+    cursor: pointer;
+}
+
+.fmp_variations .fmp-metabox h3 select {
+    font-family: sans-serif;
+    max-width: 20%;
+    margin: .25em .25em .25em 0;
+}
+
+.fmp_variations .fmp-metabox .handlediv {
+    width: 27px;
+    float: right;
+    background-position: 6px 5px !important;
+    visibility: hidden;
+    height: 26px;
+}
+
+.fmp_variations .fmp-metabox .handlediv::before {
+    content: "\f142" !important;
+    cursor: pointer;
+    display: inline-block;
+    font: 400 20px/1 Dashicons;
+    line-height: .5 !important;
+    padding: 8px 10px;
+    position: relative;
+    right: 12px;
+    top: 0;
+}
+
+.fmp_variations .fmp-metabox.closed .handlediv::before {
+    content: "\f140" !important;
+}
+
+.fmp_variations .fmp-metabox .handlediv,
+.fmp_variations .fmp-metabox h3 a.delete {
+    margin-top: .25em;
+}
+
+.fmp_variations .fmp-metabox h3 a.delete {
+    color: red;
+    font-weight: 400;
+    line-height: 26px;
+    text-decoration: none;
+    position: relative;
+    visibility: hidden;
+    float: right;
+}
+
+.fmp_variations .fmp-metabox h3:hover .handlediv,
+.fmp_variations .fmp-metabox h3:hover a.delete {
+    visibility: visible;
+}
+
+.fmp_variation .fmp_variation_data {
+    display: grid;
+    padding: 1em 2em;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+    background-color: #fdfdfd;
+    border-top: 1px solid #eee;
+}
+
+/* ============== Food meta data END ================ */
+
+/* ============== Food menu single gallery image START ============== */
+
+/* gallery image */
+#fmp-meta-images .inside #fmp_images_container ul {
+    margin: 0;
+    padding: 0;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+#fmp-meta-images .inside #fmp_images_container ul li.image,
+#fmp-meta-images .inside #fmp_images_container ul li.fmp-metabox-sortable-placeholder {
+    width: 80px;
+    float: left;
+    cursor: move;
+    border: 1px solid #d5d5d5;
+    margin: 9px 9px 0 0;
+    background: #f7f7f7;
+    border-radius: 2px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul ul.actions {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    padding: 2px;
+    display: none;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul ul.actions li a.delete:before {
+    font-family: Dashicons, serif;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: "";
+    color: #999;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul li:hover ul.actions {
+    display: block;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul ul.actions li a.delete {
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    height: 1em;
+    width: 1em;
+    font-size: 1.4em;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul ul.actions li a.tips {
+    cursor: pointer;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul ul.actions li a {
+    width: 1em;
+    margin: 0;
+    height: 0;
+    display: block;
+    overflow: hidden;
+}
+
+#fmp-meta-images .inside #fmp_images_container ul li.image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ============== Food menu single gallery image END ================ */
+
+/* ============== Others START ============== */
+/* loading */
+.rt-licensing-btn.danger {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.rt-licence-msg {
+    color: red;
+    padding: 5px 0;
+}
+
+.rt-licence-msg.success {
+    color: green;
+    padding: 5px 0;
+}
+
+#license_key_holder .description span {
+    display: block;
+}
+
+/* ============== Others END ================ */
+
+
+/* ------------------------------------------------------------------------- *
+ *  Media Query
+/* ------------------------------------------------------------------------- */
+
+@media only screen and (max-width: 900px) {
+    #fmp-food-data ul.fmp_data_tabs {
+        width: 10%;
+    }
+
+    #fmp-food-data .fmp_options_panel {
+        width: 90%;
+    }
+
+    #fmp-food-data ul.fmp_data_tabs li a {
+        position: relative;
+        text-indent: -999px;
+        padding: 10px;
+    }
+
+    #fmp-food-data ul.fmp_data_tabs li a:before {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-indent: 0;
+        text-align: center;
+        line-height: 40px;
+        width: 100%;
+        height: 40px;
+    }
+}
+
+@-moz-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-o-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-ms-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}

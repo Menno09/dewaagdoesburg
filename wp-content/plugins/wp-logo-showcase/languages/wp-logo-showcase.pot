@@ -1,0 +1,771 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Logo Showcase\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-16 10:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wp-logo-showcase"
+
+#: lib/controllers/rtWLSOptions.php:220
+msgid "1 Column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:221
+msgid "2 Column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:222
+msgid "3 Column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:223
+msgid "4 Column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:224
+msgid "5 Column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:225
+msgid "6 Column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:434
+msgid "Adaptive height"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:119
+msgid "Add New Category"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:79 lib/controllers/rtWLSInit.php:82
+msgid "Add New Logo"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:124
+msgid "Add or remove Categories"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:292
+msgid "Alignment"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:115
+msgid "All Category"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:81
+msgid "All Logos"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:475
+msgid "Alt for url and image"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:474
+msgid "Alternate Text"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:431
+msgid "Arrow nav button"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:168
+msgid "Ascending"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:430
+msgid "Auto Play"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:373
+msgid "Auto play Speed in milliseconds"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:456
+#: lib/vendor/rtWLSSElementorWidget.php:492
+msgid "Background Color"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:525
+msgid "Box"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:566
+msgid "Box Background"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:395 lib/vendor/rtWLSSElementorWidget.php:73
+msgid "Box Highlight"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:545
+msgid "Box Item Gap"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:533
+msgid "Box Padding"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:424
+msgid "Button"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:187
+msgid "Button background color"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:197
+msgid "Button background color on active"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:192
+msgid "Button background color on hover"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:202
+msgid "Button text color"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:93 lib/vendor/rtWLSSElementorWidget.php:52
+msgid "Carousel Layout"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:377
+#: lib/vendor/rtWLSSElementorWidget.php:203
+msgid "Carousel Options"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:174
+msgid "Carousel Settings"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:114 lib/controllers/rtWLSOptions.php:275
+#: lib/vendor/rtWLSSElementorWidget.php:254
+msgid "Categories"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:129
+msgid "Center"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:437
+msgid "Center mode"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:125
+msgid "Choose from the most used"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:452
+msgid "Client URL e.g: http://example.com"
+msgstr ""
+
+#: lib/controllers/rtWLSMeta.php:35
+msgid "Client Website Url"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:451
+msgid "Client website URL"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:344
+#: lib/vendor/rtWLSSElementorWidget.php:402
+msgid "Color"
+msgstr ""
+
+#: lib/controllers/rtWLVisualComposer.php:29
+msgid "Content"
+msgstr ""
+
+#: lib/views/settings.php:24
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:466
+msgid "Custom Image URL"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:157
+msgid "Date"
+msgstr ""
+
+#: lib/controllers/rtWLSAjaxResponse.php:80 lib/controllers/rtWLSSCMeta.php:294
+#: lib/controllers/rtWLSSCMeta.php:306
+msgid "Default"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:169
+msgid "Descending"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:106
+#: lib/vendor/rtWLSSElementorWidget.php:390
+msgid "Description"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:323
+#: lib/vendor/rtWLSSElementorWidget.php:142
+msgid "Desktop column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:353
+msgid "Desktop slider number"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:365
+msgid "Disabled"
+msgstr ""
+
+#: lib/widgets/rtWLSWidget.php:26
+msgid "Display the Logo showcase."
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:196 lib/controllers/rtWLSSCMeta.php:253
+#: lib/views/settings.php:11
+msgid "Documentation"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:432
+msgid "Dots"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:120
+msgid "Edit Category"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:83
+msgid "Edit Logo"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:149
+msgid "Edit Shortcode"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:418
+msgid "Enable"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:26
+msgid "Enable Image Re-Size"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:353
+msgid "Enabled"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:259
+#: lib/vendor/rtWLSSElementorWidget.php:234
+msgid "Exclude"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:216
+msgid "Filtering Options"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Fully Responsive and Mobile Friendly way to display your partner logo in "
+"different view."
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:289
+msgid "General"
+msgstr ""
+
+#: lib/views/settings.php:20
+msgid "General Settings"
+msgstr ""
+
+#: lib/views/settings.php:8
+msgid "General settings"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:254
+msgid ""
+"Get started by spending some time with the documentation we included step by "
+"step process with screenshots with video."
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:402 lib/vendor/rtWLSSElementorWidget.php:84
+msgid "Grayscale"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:92 lib/vendor/rtWLSSElementorWidget.php:51
+msgid "Grid Layout"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:207
+#: lib/vendor/rtWLSSElementorWidget.php:309
+msgid "Gutter / Padding"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:59
+msgid "Hard Crop"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:483
+msgid "Hover"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:356
+msgid "Hover Color"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://radiustheme.com/"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:468
+msgid ""
+"If you don't want to use an image from your media gallery, you can set an "
+"URL for your image here."
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:356
+msgid "If you want more that 6 item then set it."
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:53
+msgid "Image Crop"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:43
+msgid "Image Height"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:33
+msgid "Image Width"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:251
+#: lib/vendor/rtWLSSElementorWidget.php:224
+msgid "Include only"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:436
+msgid "Infinite loop"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:94 lib/vendor/rtWLSSElementorWidget.php:53
+msgid "Isotope Layout"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:316 lib/controllers/rtWLSSCMeta.php:227
+#: lib/vendor/rtWLSSElementorWidget.php:40
+#: lib/vendor/rtWLSSElementorWidget.php:49
+msgid "Layout"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:229
+msgid "Layout Building"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:188
+msgid "Layout Preview"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:435
+msgid "Lazy Load (progressive)"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:128
+msgid "Left"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:267
+#: lib/vendor/rtWLSSElementorWidget.php:244
+msgid "Limit"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:409 lib/vendor/rtWLSSElementorWidget.php:96
+msgid "Link Type"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:254 lib/controllers/rtWLSOptions.php:262
+#: lib/vendor/rtWLSSElementorWidget.php:225
+msgid "List of post IDs to show (comma-separated values, for example: 1,2,3)"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:235
+msgid "List of post IDs to skip (comma-separated values, for example: 1,2,3)"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:78 lib/controllers/rtWLSOptions.php:105
+msgid "Logo"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:460
+msgid "Logo Description"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:461
+msgid "Logo description"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:228
+msgid "Logo Filtering"
+msgstr ""
+
+#: lib/controllers/rtWLSMeta.php:34 lib/controllers/rtWLSMeta.php:80
+msgid "Logo Image"
+msgstr ""
+
+#: lib/controllers/rtWLSMeta.php:143
+msgid "Logo Information"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:80 lib/controllers/rtWLVisualComposer.php:26
+msgid "Logo Showcase"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:77
+msgid "Logos"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:155
+msgid "Menu Order"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:343
+#: lib/vendor/rtWLSSElementorWidget.php:162
+msgid "Mobile column"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:156
+msgid "Name"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:118
+msgid "New Category Name"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:84
+msgid "New Logo"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:150
+msgid "New Shortcode"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:237
+#: lib/vendor/rtWLSSElementorWidget.php:100
+msgid "No link"
+msgstr ""
+
+#: lib/controllers/rtWLSShortCode.php:286
+#: lib/vendor/rtWLSSElementorWidget.php:795
+msgid "No logo found"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:87
+msgid "No Logos found"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:88
+msgid "No Logos found in Trash"
+msgstr ""
+
+#: lib/controllers/rtWLSShortCode.php:289
+msgid "No short code found"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:154
+msgid "No Shortcode found in trash."
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:153
+msgid "No Shortcode found."
+msgstr ""
+
+#: lib/controllers/rtWLSAjaxResponse.php:90
+msgid "No shortcode found."
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:417
+#: lib/vendor/rtWLSSElementorWidget.php:120
+msgid "Nofollow"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:447
+msgid "Normal"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:128
+msgid "Not Found"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:364
+msgid "Number of logo to to scroll, Recommended > same as  slides to show"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:134
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:65
+#: lib/vendor/rtWLSSElementorWidget.php:76
+#: lib/vendor/rtWLSSElementorWidget.php:87
+#: lib/vendor/rtWLSSElementorWidget.php:123
+msgid "Off"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:64
+#: lib/vendor/rtWLSSElementorWidget.php:75
+#: lib/vendor/rtWLSSElementorWidget.php:86
+#: lib/vendor/rtWLSSElementorWidget.php:122
+msgid "On"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:235 lib/vendor/rtWLSSElementorWidget.php:98
+msgid "Open in new window"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:236 lib/vendor/rtWLSSElementorWidget.php:99
+msgid "Open in same window"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:294
+#: lib/vendor/rtWLSSElementorWidget.php:276
+msgid "Order"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:286
+#: lib/vendor/rtWLSSElementorWidget.php:266
+msgid "Order By"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:375
+msgid "Padding"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:116 lib/controllers/rtWLSInit.php:117
+msgid "Parent Category"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:433
+msgid "Pause on hover"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:126
+msgid "Popular Categories"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:298
+msgid "Primary Color"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:182
+msgid "Primary color"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:158
+msgid "Random order"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:130
+msgid "Right"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:438
+msgid "Right to Left"
+msgstr ""
+
+#: lib/views/settings.php:41
+msgid "Save Changes"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:127
+msgid "Search Categories"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:86
+msgid "Search Logos"
+msgstr ""
+
+#: lib/controllers/rtWLSAjaxResponse.php:53
+#: lib/controllers/rtWLSPreview.php:240
+msgid "Security Error !!"
+msgstr ""
+
+#: lib/controllers/rtWLVisualComposer.php:36
+msgid "Select a shortcode"
+msgstr ""
+
+#: lib/controllers/rtWLVisualComposer.php:39
+msgid "Select a shortcode for displaying logo showcase"
+msgstr ""
+
+#: lib/widgets/rtWLSWidget.php:68
+msgid "Select One"
+msgstr ""
+
+#: lib/controllers/rtWLSAjaxResponse.php:78
+msgid "Select Short code"
+msgstr ""
+
+#: lib/widgets/rtWLSWidget.php:65
+msgid "Select Shortcode:"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:280
+#: lib/vendor/rtWLSSElementorWidget.php:255
+msgid "Select the category you want to filter, Leave it blank for All category"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:123
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:268
+msgid "Settings"
+msgstr ""
+
+#: lib/controllers/rtWLSAjaxResponse.php:50
+msgid "Settings successfully updated"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:180
+msgid "Short Code Generator"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:143 lib/controllers/rtWLSInit.php:147
+#: lib/controllers/rtWLSInit.php:148 lib/controllers/rtWLSSCMeta.php:60
+msgid "Shortcode"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:146
+msgid "Shortcode Generator"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:152
+msgid "Shortcode Locations"
+msgstr ""
+
+#: lib/controllers/rtWLSPreview.php:153 lib/controllers/rtWLSShortCode.php:224
+#: lib/vendor/rtWLSSElementorWidget.php:738
+msgid "Show all"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:110
+msgid "Show Fields"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:304
+msgid "Size"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:360
+#: lib/vendor/rtWLSSElementorWidget.php:185
+msgid "Slides To Scroll"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:58
+msgid "Soft Crop"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:369
+#: lib/vendor/rtWLSSElementorWidget.php:194
+msgid "Speed"
+msgstr ""
+
+#: lib/controllers/rtWLSSCMeta.php:230
+msgid "Styling"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:333
+#: lib/vendor/rtWLSSElementorWidget.php:152
+msgid "Tab column"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:469
+#: lib/vendor/rtWLSSElementorWidget.php:506
+msgid "Text Color"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:270
+#: lib/vendor/rtWLSSElementorWidget.php:245
+msgid "The number of posts to show. Set empty to show all found posts."
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:467
+msgid "This will dominate over featured image"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:104
+#: lib/vendor/rtWLSSElementorWidget.php:332
+msgid "Title"
+msgstr ""
+
+#: lib/widgets/rtWLSWidget.php:59
+msgid "Title:"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:388 lib/vendor/rtWLSSElementorWidget.php:62
+msgid "ToolTip"
+msgstr ""
+
+#: lib/vendor/rtWLSSElementorWidget.php:367
+#: lib/vendor/rtWLSSElementorWidget.php:413
+#: lib/vendor/rtWLSSElementorWidget.php:436
+msgid "Typography"
+msgstr ""
+
+#: lib/controllers/rtWLSOptions.php:208
+msgid ""
+"Unit will be pixel, No need to give any unit. Only integer value will be "
+"valid.<br> Leave it blank for default"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:121
+msgid "Update Category"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:122
+msgid "View Category"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:85
+msgid "View Logo"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:151
+msgid "View Shortcode"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:112 lib/controllers/rtWLSInit.php:113
+msgctxt "wlshowcase category"
+msgid "Category"
+msgstr ""
+
+#. Name of the plugin
+#: lib/vendor/rtWLSSElementorWidget.php:24
+msgid "WP Logo Showcase"
+msgstr ""
+
+#: lib/widgets/rtWLSWidget.php:28
+msgid "Wp Logo Showcase"
+msgstr ""
+
+#: lib/controllers/rtWLSInit.php:144
+msgid "Wp logo showcase Shortcode generator"
+msgstr ""
+
+#: lib/views/settings.php:4
+msgid "Wp Logo Showcases Settings"
+msgstr ""

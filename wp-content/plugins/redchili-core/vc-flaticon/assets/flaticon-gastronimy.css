@@ -1,0 +1,260 @@
+	/*
+  	Flaticon icon font: Flaticon 
+  	Creation date: 22/06/2016 15:37
+  	*/
+
+@font-face {
+  font-family: "Flaticon-gastronimy";
+  src: url("./Flaticon-gastronimy.eot");
+  src: url("./Flaticon-gastronimy.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon-gastronimy.woff") format("woff"),
+       url("./Flaticon-gastronimy.ttf") format("truetype"),
+       url("./Flaticon-gastronimy.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-gastronimy";
+    src: url("./Flaticon-gastronimy.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-gastronimy-"]:before, [class*=" flaticon-gastronimy-"]:before,
+[class^="flaticon-gastronimy-"]:after, [class*=" flaticon-gastronimy-"]:after {   
+	font-family: Flaticon-gastronimy;       
+	font-style: normal;
+	margin-left: 20px;
+}
+
+.flaticon-gastronimy-apple:before { content: "\f100"; }
+.flaticon-gastronimy-apple-1:before { content: "\f101"; }
+.flaticon-gastronimy-asparagus:before { content: "\f102"; }
+.flaticon-gastronimy-aubergine:before { content: "\f103"; }
+.flaticon-gastronimy-avocado:before { content: "\f104"; }
+.flaticon-gastronimy-bacon:before { content: "\f105"; }
+.flaticon-gastronimy-baguette:before { content: "\f106"; }
+.flaticon-gastronimy-banana:before { content: "\f107"; }
+.flaticon-gastronimy-beans:before { content: "\f108"; }
+.flaticon-gastronimy-biscuit:before { content: "\f109"; }
+.flaticon-gastronimy-blueberries:before { content: "\f10a"; }
+.flaticon-gastronimy-boiled:before { content: "\f10b"; }
+.flaticon-gastronimy-bowl:before { content: "\f10c"; }
+.flaticon-gastronimy-bowl-1:before { content: "\f10d"; }
+.flaticon-gastronimy-bread:before { content: "\f10e"; }
+.flaticon-gastronimy-bread-1:before { content: "\f10f"; }
+.flaticon-gastronimy-bread-2:before { content: "\f110"; }
+.flaticon-gastronimy-broccoli:before { content: "\f111"; }
+.flaticon-gastronimy-butcher:before { content: "\f112"; }
+.flaticon-gastronimy-butter:before { content: "\f113"; }
+.flaticon-gastronimy-cabbage:before { content: "\f114"; }
+.flaticon-gastronimy-cake:before { content: "\f115"; }
+.flaticon-gastronimy-can:before { content: "\f116"; }
+.flaticon-gastronimy-can-1:before { content: "\f117"; }
+.flaticon-gastronimy-can-2:before { content: "\f118"; }
+.flaticon-gastronimy-candy:before { content: "\f119"; }
+.flaticon-gastronimy-candy-1:before { content: "\f11a"; }
+.flaticon-gastronimy-carrot:before { content: "\f11b"; }
+.flaticon-gastronimy-cauliflower:before { content: "\f11c"; }
+.flaticon-gastronimy-cereals:before { content: "\f11d"; }
+.flaticon-gastronimy-cheese:before { content: "\f11e"; }
+.flaticon-gastronimy-cheese-1:before { content: "\f11f"; }
+.flaticon-gastronimy-chef:before { content: "\f120"; }
+.flaticon-gastronimy-cherries:before { content: "\f121"; }
+.flaticon-gastronimy-chili:before { content: "\f122"; }
+.flaticon-gastronimy-chips:before { content: "\f123"; }
+.flaticon-gastronimy-chives:before { content: "\f124"; }
+.flaticon-gastronimy-chocolate:before { content: "\f125"; }
+.flaticon-gastronimy-coconut:before { content: "\f126"; }
+.flaticon-gastronimy-coffee:before { content: "\f127"; }
+.flaticon-gastronimy-coffee-1:before { content: "\f128"; }
+.flaticon-gastronimy-coffee-2:before { content: "\f129"; }
+.flaticon-gastronimy-coffee-3:before { content: "\f12a"; }
+.flaticon-gastronimy-coffee-4:before { content: "\f12b"; }
+.flaticon-gastronimy-coffee-maker:before { content: "\f12c"; }
+.flaticon-gastronimy-cookies:before { content: "\f12d"; }
+.flaticon-gastronimy-corckscrew:before { content: "\f12e"; }
+.flaticon-gastronimy-corn:before { content: "\f12f"; }
+.flaticon-gastronimy-corndog:before { content: "\f130"; }
+.flaticon-gastronimy-croissant:before { content: "\f131"; }
+.flaticon-gastronimy-cucumber:before { content: "\f132"; }
+.flaticon-gastronimy-cup:before { content: "\f133"; }
+.flaticon-gastronimy-cupcake:before { content: "\f134"; }
+.flaticon-gastronimy-cupcake-1:before { content: "\f135"; }
+.flaticon-gastronimy-cupcake-2:before { content: "\f136"; }
+.flaticon-gastronimy-cutlery:before { content: "\f137"; }
+.flaticon-gastronimy-dairy:before { content: "\f138"; }
+.flaticon-gastronimy-dish:before { content: "\f139"; }
+.flaticon-gastronimy-dishes:before { content: "\f13a"; }
+.flaticon-gastronimy-doughnut:before { content: "\f13b"; }
+.flaticon-gastronimy-doughnut-1:before { content: "\f13c"; }
+.flaticon-gastronimy-doughnut-2:before { content: "\f13d"; }
+.flaticon-gastronimy-egg:before { content: "\f13e"; }
+.flaticon-gastronimy-eggs:before { content: "\f13f"; }
+.flaticon-gastronimy-fig:before { content: "\f140"; }
+.flaticon-gastronimy-fish:before { content: "\f141"; }
+.flaticon-gastronimy-flour:before { content: "\f142"; }
+.flaticon-gastronimy-flour-1:before { content: "\f143"; }
+.flaticon-gastronimy-food:before { content: "\f144"; }
+.flaticon-gastronimy-fork:before { content: "\f145"; }
+.flaticon-gastronimy-frappe:before { content: "\f146"; }
+.flaticon-gastronimy-fries:before { content: "\f147"; }
+.flaticon-gastronimy-garlic:before { content: "\f148"; }
+.flaticon-gastronimy-gingerbread:before { content: "\f149"; }
+.flaticon-gastronimy-glass:before { content: "\f14a"; }
+.flaticon-gastronimy-glass-1:before { content: "\f14b"; }
+.flaticon-gastronimy-glass-2:before { content: "\f14c"; }
+.flaticon-gastronimy-glass-3:before { content: "\f14d"; }
+.flaticon-gastronimy-glass-4:before { content: "\f14e"; }
+.flaticon-gastronimy-glass-5:before { content: "\f14f"; }
+.flaticon-gastronimy-glass-6:before { content: "\f150"; }
+.flaticon-gastronimy-grain:before { content: "\f151"; }
+.flaticon-gastronimy-grapes:before { content: "\f152"; }
+.flaticon-gastronimy-grater:before { content: "\f153"; }
+.flaticon-gastronimy-grinder:before { content: "\f154"; }
+.flaticon-gastronimy-groceries:before { content: "\f155"; }
+.flaticon-gastronimy-ham:before { content: "\f156"; }
+.flaticon-gastronimy-hamburguer:before { content: "\f157"; }
+.flaticon-gastronimy-hamburguer-1:before { content: "\f158"; }
+.flaticon-gastronimy-hazelnut:before { content: "\f159"; }
+.flaticon-gastronimy-honey:before { content: "\f15a"; }
+.flaticon-gastronimy-honey-1:before { content: "\f15b"; }
+.flaticon-gastronimy-hot-dog:before { content: "\f15c"; }
+.flaticon-gastronimy-hot-dog-1:before { content: "\f15d"; }
+.flaticon-gastronimy-ice-cream:before { content: "\f15e"; }
+.flaticon-gastronimy-ice-cream-1:before { content: "\f15f"; }
+.flaticon-gastronimy-ice-cream-10:before { content: "\f160"; }
+.flaticon-gastronimy-ice-cream-11:before { content: "\f161"; }
+.flaticon-gastronimy-ice-cream-12:before { content: "\f162"; }
+.flaticon-gastronimy-ice-cream-13:before { content: "\f163"; }
+.flaticon-gastronimy-ice-cream-14:before { content: "\f164"; }
+.flaticon-gastronimy-ice-cream-2:before { content: "\f165"; }
+.flaticon-gastronimy-ice-cream-3:before { content: "\f166"; }
+.flaticon-gastronimy-ice-cream-4:before { content: "\f167"; }
+.flaticon-gastronimy-ice-cream-5:before { content: "\f168"; }
+.flaticon-gastronimy-ice-cream-6:before { content: "\f169"; }
+.flaticon-gastronimy-ice-cream-7:before { content: "\f16a"; }
+.flaticon-gastronimy-ice-cream-8:before { content: "\f16b"; }
+.flaticon-gastronimy-ice-cream-9:before { content: "\f16c"; }
+.flaticon-gastronimy-jam:before { content: "\f16d"; }
+.flaticon-gastronimy-jam-1:before { content: "\f16e"; }
+.flaticon-gastronimy-jawbreaker:before { content: "\f16f"; }
+.flaticon-gastronimy-jelly:before { content: "\f170"; }
+.flaticon-gastronimy-kebab:before { content: "\f171"; }
+.flaticon-gastronimy-kebab-1:before { content: "\f172"; }
+.flaticon-gastronimy-kebab-2:before { content: "\f173"; }
+.flaticon-gastronimy-kitchen:before { content: "\f174"; }
+.flaticon-gastronimy-knife:before { content: "\f175"; }
+.flaticon-gastronimy-knife-1:before { content: "\f176"; }
+.flaticon-gastronimy-knife-2:before { content: "\f177"; }
+.flaticon-gastronimy-knife-3:before { content: "\f178"; }
+.flaticon-gastronimy-knives:before { content: "\f179"; }
+.flaticon-gastronimy-ladle:before { content: "\f17a"; }
+.flaticon-gastronimy-lemon:before { content: "\f17b"; }
+.flaticon-gastronimy-lemon-1:before { content: "\f17c"; }
+.flaticon-gastronimy-lime:before { content: "\f17d"; }
+.flaticon-gastronimy-meat:before { content: "\f17e"; }
+.flaticon-gastronimy-meat-1:before { content: "\f17f"; }
+.flaticon-gastronimy-meat-2:before { content: "\f180"; }
+.flaticon-gastronimy-milk:before { content: "\f181"; }
+.flaticon-gastronimy-milk-1:before { content: "\f182"; }
+.flaticon-gastronimy-mixer:before { content: "\f183"; }
+.flaticon-gastronimy-mug:before { content: "\f184"; }
+.flaticon-gastronimy-mushroom:before { content: "\f185"; }
+.flaticon-gastronimy-mushrooms:before { content: "\f186"; }
+.flaticon-gastronimy-mustard:before { content: "\f187"; }
+.flaticon-gastronimy-mustard-1:before { content: "\f188"; }
+.flaticon-gastronimy-mustard-2:before { content: "\f189"; }
+.flaticon-gastronimy-noodles:before { content: "\f18a"; }
+.flaticon-gastronimy-oat:before { content: "\f18b"; }
+.flaticon-gastronimy-octopus:before { content: "\f18c"; }
+.flaticon-gastronimy-oil:before { content: "\f18d"; }
+.flaticon-gastronimy-olives:before { content: "\f18e"; }
+.flaticon-gastronimy-onion:before { content: "\f18f"; }
+.flaticon-gastronimy-onion-1:before { content: "\f190"; }
+.flaticon-gastronimy-orange:before { content: "\f191"; }
+.flaticon-gastronimy-ornating:before { content: "\f192"; }
+.flaticon-gastronimy-pan:before { content: "\f193"; }
+.flaticon-gastronimy-pancakes:before { content: "\f194"; }
+.flaticon-gastronimy-pancakes-1:before { content: "\f195"; }
+.flaticon-gastronimy-pasta:before { content: "\f196"; }
+.flaticon-gastronimy-pasta-1:before { content: "\f197"; }
+.flaticon-gastronimy-peach:before { content: "\f198"; }
+.flaticon-gastronimy-pear:before { content: "\f199"; }
+.flaticon-gastronimy-peas:before { content: "\f19a"; }
+.flaticon-gastronimy-pepper:before { content: "\f19b"; }
+.flaticon-gastronimy-pepper-1:before { content: "\f19c"; }
+.flaticon-gastronimy-pickles:before { content: "\f19d"; }
+.flaticon-gastronimy-pie:before { content: "\f19e"; }
+.flaticon-gastronimy-pie-1:before { content: "\f19f"; }
+.flaticon-gastronimy-pie-2:before { content: "\f1a0"; }
+.flaticon-gastronimy-pineapple:before { content: "\f1a1"; }
+.flaticon-gastronimy-pint:before { content: "\f1a2"; }
+.flaticon-gastronimy-pistachio:before { content: "\f1a3"; }
+.flaticon-gastronimy-pizza:before { content: "\f1a4"; }
+.flaticon-gastronimy-pizza-1:before { content: "\f1a5"; }
+.flaticon-gastronimy-pizza-2:before { content: "\f1a6"; }
+.flaticon-gastronimy-pizza-3:before { content: "\f1a7"; }
+.flaticon-gastronimy-pizza-4:before { content: "\f1a8"; }
+.flaticon-gastronimy-pizza-5:before { content: "\f1a9"; }
+.flaticon-gastronimy-pomegranate:before { content: "\f1aa"; }
+.flaticon-gastronimy-popsicle:before { content: "\f1ab"; }
+.flaticon-gastronimy-pot:before { content: "\f1ac"; }
+.flaticon-gastronimy-pot-1:before { content: "\f1ad"; }
+.flaticon-gastronimy-pot-2:before { content: "\f1ae"; }
+.flaticon-gastronimy-potatoes:before { content: "\f1af"; }
+.flaticon-gastronimy-potatoes-1:before { content: "\f1b0"; }
+.flaticon-gastronimy-potatoes-2:before { content: "\f1b1"; }
+.flaticon-gastronimy-pretzel:before { content: "\f1b2"; }
+.flaticon-gastronimy-pudding:before { content: "\f1b3"; }
+.flaticon-gastronimy-pumpkin:before { content: "\f1b4"; }
+.flaticon-gastronimy-radish:before { content: "\f1b5"; }
+.flaticon-gastronimy-raspberry:before { content: "\f1b6"; }
+.flaticon-gastronimy-rice:before { content: "\f1b7"; }
+.flaticon-gastronimy-risotto:before { content: "\f1b8"; }
+.flaticon-gastronimy-rolling-pin:before { content: "\f1b9"; }
+.flaticon-gastronimy-salad:before { content: "\f1ba"; }
+.flaticon-gastronimy-salad-1:before { content: "\f1bb"; }
+.flaticon-gastronimy-salami:before { content: "\f1bc"; }
+.flaticon-gastronimy-salmon:before { content: "\f1bd"; }
+.flaticon-gastronimy-salt:before { content: "\f1be"; }
+.flaticon-gastronimy-sandwich:before { content: "\f1bf"; }
+.flaticon-gastronimy-sandwich-1:before { content: "\f1c0"; }
+.flaticon-gastronimy-sausage:before { content: "\f1c1"; }
+.flaticon-gastronimy-scale:before { content: "\f1c2"; }
+.flaticon-gastronimy-seeds:before { content: "\f1c3"; }
+.flaticon-gastronimy-shrimp:before { content: "\f1c4"; }
+.flaticon-gastronimy-slotted-spoon:before { content: "\f1c5"; }
+.flaticon-gastronimy-sorbet:before { content: "\f1c6"; }
+.flaticon-gastronimy-spaguetti:before { content: "\f1c7"; }
+.flaticon-gastronimy-spatula:before { content: "\f1c8"; }
+.flaticon-gastronimy-spatula-1:before { content: "\f1c9"; }
+.flaticon-gastronimy-spices:before { content: "\f1ca"; }
+.flaticon-gastronimy-spoon:before { content: "\f1cb"; }
+.flaticon-gastronimy-steak:before { content: "\f1cc"; }
+.flaticon-gastronimy-stew:before { content: "\f1cd"; }
+.flaticon-gastronimy-stew-1:before { content: "\f1ce"; }
+.flaticon-gastronimy-strainer:before { content: "\f1cf"; }
+.flaticon-gastronimy-strawberry:before { content: "\f1d0"; }
+.flaticon-gastronimy-sushi:before { content: "\f1d1"; }
+.flaticon-gastronimy-sushi-1:before { content: "\f1d2"; }
+.flaticon-gastronimy-sushi-2:before { content: "\f1d3"; }
+.flaticon-gastronimy-taco:before { content: "\f1d4"; }
+.flaticon-gastronimy-tea:before { content: "\f1d5"; }
+.flaticon-gastronimy-tea-1:before { content: "\f1d6"; }
+.flaticon-gastronimy-teapot:before { content: "\f1d7"; }
+.flaticon-gastronimy-teapot-1:before { content: "\f1d8"; }
+.flaticon-gastronimy-teaspoon:before { content: "\f1d9"; }
+.flaticon-gastronimy-tenderizer:before { content: "\f1da"; }
+.flaticon-gastronimy-thermos:before { content: "\f1db"; }
+.flaticon-gastronimy-toast:before { content: "\f1dc"; }
+.flaticon-gastronimy-toaster:before { content: "\f1dd"; }
+.flaticon-gastronimy-toffee:before { content: "\f1de"; }
+.flaticon-gastronimy-tomato:before { content: "\f1df"; }
+.flaticon-gastronimy-turkey:before { content: "\f1e0"; }
+.flaticon-gastronimy-water:before { content: "\f1e1"; }
+.flaticon-gastronimy-water-1:before { content: "\f1e2"; }
+.flaticon-gastronimy-watermelon:before { content: "\f1e3"; }
+.flaticon-gastronimy-whisk:before { content: "\f1e4"; }
+.flaticon-gastronimy-wrap:before { content: "\f1e5"; }
